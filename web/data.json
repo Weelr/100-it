@@ -1,0 +1,6022 @@
+{
+ "regions": [
+  {
+   "id": "KokiriForest",
+   "name": "Kokiri Forest",
+   "ar": "غابة كوكيري",
+   "kind": "field",
+   "visit": "2e315eb6",
+   "locs": [
+    "KokiriForest"
+   ],
+   "items": [
+    {
+     "id": "gs15",
+     "cat": "gs",
+     "name": "Soft soil behind the shop",
+     "era": "Child",
+     "steps": "Once you have a bottled Bug, go behind the Kokiri Shop and release it on the patch of soft soil.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9623998892552467148"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة ورا المحل",
+     "steps_ar": "إذا معك حشرة في قنينة، روح ورا محل كوكيري وطلّعها على التربة اللينة."
+    },
+    {
+     "id": "gs16",
+     "cat": "gs",
+     "name": "Back of the Know-It-All Brothers' house",
+     "era": "Child",
+     "steps": "After meeting Zelda, make it night (Sun's Song or sleep in your bed) and go behind the Know-It-All Brothers' house near the Training Grounds. The spider is on the treehouse wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17067594426901953848"
+      }
+     ],
+     "night": true,
+     "name_ar": "ورا بيت الإخوان اللي يعرفون كل شي",
+     "steps_ar": "بعد ما تقابل زيلدا، خلها ليل (أغنية الشمس أو نام في سريرك) وروح ورا بيت الإخوان اللي يعرفون كل شي قرب ساحة التدريب. العنكبوت على جدار بيت الشجرة."
+    },
+    {
+     "id": "gs46",
+     "cat": "gs",
+     "name": "Twins' house roof",
+     "era": "Adult",
+     "steps": "Clear out the enemies, then at night go behind the Twins' house (closest to the Deku Tree tunnel). Hookshot the spider high at the top.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7116603238806634901"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "سطح بيت التوأم",
+     "steps_ar": "نظّف الأعداء، وبالليل روح ورا بيت التوأم (الأقرب لنفق شجرة ديكو). استخدم الخطّاف على العنكبوت اللي فوق."
+    }
+   ]
+  },
+  {
+   "id": "LostWoods",
+   "name": "Lost Woods",
+   "ar": "الغابات الضائعة",
+   "kind": "field",
+   "visit": null,
+   "locs": [
+    "LostWoods"
+   ],
+   "items": [
+    {
+     "id": "gs17",
+     "cat": "gs",
+     "name": "Soft soil by the bridge ledge",
+     "era": "Child",
+     "steps": "Right after entering, turn left to the clearing where a Skull Kid stands alone. From there take the other tunnel (not the one you came through). On the high ledge above the bridge out of Kokiri Forest, release a Bug on the soft soil.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9333354743976439033"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة على حافة الجسر",
+     "steps_ar": "أول ما تدخل لف يسار للمكان اللي فيه السكل كيد لحاله. ومن هناك خذ النفق الثاني (مو اللي جيت منه). على الحافة العالية فوق الجسر اللي يطلع من غابة كوكيري، طلّع حشرة على التربة اللينة."
+    },
+    {
+     "id": "gs18",
+     "cat": "gs",
+     "name": "Soft soil in the scrub meadow",
+     "era": "Child",
+     "steps": "From the entrance go right (toward the Goron City shortcut), then right again to the water, then left and left again to a meadow full of Deku Scrubs. Release a Bug on the soft soil by the big tree (one of the scrubs sells Bugs).",
+     "src": [
+      {
+       "t": "k",
+       "v": "17796658857969527112"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة في مرج شجيرات ديكو",
+     "steps_ar": "من المدخل روح يمين (طريق اختصار مدينة الغورون)، بعدين يمين للماي، بعدين يسار ويسار مرة ثانية لمرج مليان شجيرات ديكو. طلّع حشرة على التربة اللينة جنب الشجرة الكبيرة (فيه شجيرة ديكو يبيع حشرات)."
+    },
+    {
+     "id": "gs47",
+     "cat": "gs",
+     "name": "Floating plant ledge",
+     "era": "Adult",
+     "steps": "As a child, plant Magic Beans in the hidden grove (from the entrance: right, left to the Goron shortcut, left to the Zora shortcut, then left twice). As an adult, ride the plant to the high ledge with the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "4335656213162247230"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      }
+     ],
+     "name_ar": "حافة النبتة الطايرة",
+     "steps_ar": "وأنت صغير ازرع الفاصوليا السحرية في البستان المخفي (من المدخل: يمين، يسار لاختصار الغورون، يسار لاختصار زورا، بعدين يسار مرتين). ولما تكبر اركب النبتة للحافة العالية اللي فيها العنكبوت."
+    },
+    {
+     "id": "poh15",
+     "cat": "poh",
+     "name": "Skull Kid duet",
+     "era": "Child",
+     "steps": "From the Lost Woods entrance, go left into the small grove where a Skull Kid plays his flute. Stand on the small stump and play Saria's Song with him.",
+     "src": [
+      {
+       "t": "h",
+       "v": "5ff7aa30"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.2"
+       ]
+      }
+     ],
+     "name_ar": "دويتو مع سكل كيد",
+     "steps_ar": "من مدخل الغابات الضائعة، روح يسار للبستان الصغير اللي يعزف فيه السكل كيد بالناي. وقّف على الجذع الصغير وشغّل أغنية ساريا معه."
+    },
+    {
+     "id": "poh16",
+     "cat": "poh",
+     "name": "Follow-the-tune game",
+     "era": "Child",
+     "steps": "From the entrance, follow the music to the right into the area with two Skull Kids on stumps. Play their repeat-the-notes game three times: the first two rounds pay Rupees, the third and hardest pays the Piece of Heart.",
+     "src": [
+      {
+       "t": "h",
+       "v": "1657d7d8"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.0",
+        "items.1"
+       ]
+      }
+     ],
+     "name_ar": "لعبة تكرار النغمات",
+     "steps_ar": "من المدخل امشِ مع الموسيقى يمين للمكان اللي فيه اثنين السكل كيد على جذوع. العب لعبة تكرار النغمات ثلاث مرات: أول مرتين تعطيك روبيات، والثالثة (الأصعب) تعطيك قطعة القلب."
+    }
+   ]
+  },
+  {
+   "id": "SacredForestMeadow",
+   "name": "Sacred Forest Meadow",
+   "ar": "المرج المقدس",
+   "kind": "field",
+   "visit": "eb724c83",
+   "locs": [
+    "SacredForestMeadow"
+   ],
+   "items": [
+    {
+     "id": "gs48",
+     "cat": "gs",
+     "name": "Ruins near the Fairy Fountain",
+     "era": "Adult",
+     "steps": "Go through the narrow paths killing Moblins from behind until the big stairway. Don't climb it: turn around to the ruins opening with the Fairy Fountain and a ladder. On the side with the big tree roots, Hookshot the spider high on the wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "14473218207379268379"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "الأطلال جنب نافورة الجنية",
+     "steps_ar": "امشِ في الممرات الضيقة واقتل الموبلن من ورا لين الدرج الكبير. لا تطلعه: لف لفتحة الأطلال اللي فيها نافورة الجنية والسلّم. في الجهة اللي فيها جذور الشجرة الكبيرة، استخدم الخطّاف على العنكبوت اللي فوق على الجدار."
+    }
+   ]
+  },
+  {
+   "id": "HyruleField",
+   "name": "Hyrule Field",
+   "ar": "سهل هايرول",
+   "kind": "field",
+   "visit": "dda673cb",
+   "locs": [
+    "HyruleField"
+   ],
+   "items": [
+    {
+     "id": "gs5",
+     "cat": "gs",
+     "name": "Tree near Kokiri Forest",
+     "era": "Either",
+     "steps": "Near the wooden bridge into Kokiri Forest, cross the little stream. Roll into the tall, thin tree there to knock the spider down.",
+     "src": [
+      {
+       "t": "k",
+       "v": "2177746409373494991"
+      }
+     ],
+     "name_ar": "شجرة قرب غابة كوكيري",
+     "steps_ar": "قرب الجسر الخشبي اللي يدخلك غابة كوكيري، اعبر الجدول الصغير. تدحرج في الشجرة الطويلة النحيفة عشان يطيح العنكبوت."
+    },
+    {
+     "id": "gs27",
+     "cat": "gs",
+     "name": "Grotto south of Lon Lon Ranch",
+     "era": "Either",
+     "steps": "In the cluster of trees below Lon Lon Ranch (between the ranch and the road down to Lake Hylia), near a big Peahat, bomb the cracked ground to open a grotto. The spider is high on the wall, so come back with the Boomerang or Hookshot.",
+     "src": [
+      {
+       "t": "k",
+       "v": "12007978132755687032"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      },
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "مغارة الأشجار تحت مزرعة لون لون",
+     "steps_ar": "في مجموعة الأشجار اللي تحت مزرعة لون لون (بين المزرعة والطريق اللي ينزل لبحيرة هايليا)، قرب البيهات كبير، فجّر الأرض المتشققة عشان تنفتح مغارة. العنكبوت فوق على الجدار، فارجع لها بالبومرانغ أو الخطّاف."
+    },
+    {
+     "id": "gs55",
+     "cat": "gs",
+     "name": "Time-travel grotto crate",
+     "era": "Either",
+     "steps": "As a child, go to the muddy area where the big Peahats are (the flying plants you see in the daytime) and bomb the cracked stone to open a grotto. Kill the normal Skullwalltula as the fairy writing says. Come back as an adult and roll into the shaking crate: the spider is in it now.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9047381233010434881"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "صندوق مغارة السفر بالزمن",
+     "steps_ar": "وأنت صغير روح للمنطقة الطينية اللي فيها البيهات الكبيرة (النباتات اللي تطير بالنهار) وفجّر الحجر المتشقق عشان تنفتح مغارة. اقتل سكولتولا الجدار العادي مثل ما تقول كتابة الجنية. ارجع وأنت كبير وتدحرج في الصندوق اللي يهتز، العنكبوت صار فيه."
+    },
+    {
+     "id": "poh13",
+     "cat": "poh",
+     "name": "Password Scrub grotto",
+     "era": "Child",
+     "steps": "Stand facing the Castle Town gate. Just to the right of the gate, along the moat, bomb the cracked stone to find a grotto with a Business Scrub who wants a password. As an adult, read the fairy writing on a tree beside the same grotto to learn it. After clearing the Forest Temple, go back as a child, say the password and buy the Piece of Heart for 100 Rupees.",
+     "src": [
+      {
+       "t": "h",
+       "v": "e41e1597"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      },
+      {
+       "any": [
+        "quest.4"
+       ]
+      }
+     ],
+     "name_ar": "مغارة شجيرة ديكو أبو كلمة السر",
+     "steps_ar": "وقّف مقابل بوابة السوق. يمين البوابة بشوي على الخندق، فجّر الحجر المتشقق تلقى مغارة فيها شجيرة ديكو البيّاعة يبي كلمة سر. وأنت كبير اقرأ كتابة الجنية على شجرة جنب نفس المغارة عشان تعرفها. بعد ما تخلص معبد الغابة، ارجع وأنت صغير، قل كلمة السر واشترِ قطعة القلب بـ 100 روبية."
+    },
+    {
+     "id": "poh14",
+     "cat": "poh",
+     "name": "Locked chest under the outcrop",
+     "era": "Child",
+     "steps": "Near the road into Gerudo Valley, a small chest sits under a big rock outcrop but will not open for a child. As an adult, read the fairy writing beside it. Once the Forest Temple is cleared, return as a child and the chest opens.",
+     "src": [
+      {
+       "t": "h",
+       "v": "da9dff2c"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "quest.4"
+       ]
+      }
+     ],
+     "name_ar": "الصندوق المقفل تحت الصخرة",
+     "steps_ar": "قرب الطريق اللي رايح لوادي الجيرودو، فيه صندوق صغير تحت صخرة كبيرة بارزة، بس ما ينفتح للصغير. وأنت كبير اقرأ كتابة الجنية اللي جنبه. بعد ما تخلص معبد الغابة، ارجع وأنت صغير وينفتح الصندوق."
+    },
+    {
+     "id": "ft1",
+     "cat": "ft",
+     "name": "Rock west of Castle Town",
+     "era": "Child",
+     "steps": "Facing the Castle Town gate, on a rock a little to its left. Hints that a nearby wooden box holds Rupees.",
+     "src": [
+      {
+       "t": "h",
+       "v": "87917159"
+      }
+     ],
+     "name_ar": "صخرة يسار بوابة السوق",
+     "steps_ar": "وأنت مقابل بوابة السوق، على صخرة يسار البوابة بشوي. تلمّح إن فيه صندوق خشب قريب فيه روبيات."
+    },
+    {
+     "id": "ft2",
+     "cat": "ft",
+     "name": "Wagon at Kakariko entrance",
+     "era": "Child",
+     "steps": "On a wagon next to the Kakariko Village entrance. Hints that cutting the grass nearby releases Bugs.",
+     "src": [
+      {
+       "t": "h",
+       "v": "80dffa7d"
+      }
+     ],
+     "name_ar": "العربة عند مدخل كاكاريكو",
+     "steps_ar": "على عربة جنب مدخل قرية كاكاريكو. تلمّح إن قص الحشيش اللي قريب يطلّع حشرات."
+    },
+    {
+     "id": "ft3",
+     "cat": "ft",
+     "name": "Tree east of Castle Town",
+     "era": "Child",
+     "steps": "Facing the Castle Town gate, on a tree a little to its right. Gives the password for the Business Scrub in the nearby grotto. Say it as a child and he sells a Piece of Heart for 100 Rupees.",
+     "src": [
+      {
+       "t": "h",
+       "v": "ea520731"
+      }
+     ],
+     "name_ar": "شجرة يمين بوابة السوق",
+     "steps_ar": "وأنت مقابل بوابة السوق، على شجرة يمين البوابة بشوي. تعطيك كلمة السر لشجيرة ديكو البيّاعة اللي في المغارة القريبة. قلها وأنت صغير ويبيعك قطعة قلب بـ 100 روبية."
+    },
+    {
+     "id": "ft4",
+     "cat": "ft",
+     "name": "Alcove by Zora River",
+     "era": "Child",
+     "steps": "In a small alcove in the field's edge right next to the Zora River entrance, just before you reach it. Hints that Rupees are hidden in the nearby pool of water.",
+     "src": [
+      {
+       "t": "h",
+       "v": "4ac77991"
+      }
+     ],
+     "name_ar": "فتحة جنب نهر زورا",
+     "steps_ar": "في فتحة صغيرة بطرف السهل جنب مدخل نهر زورا، قبل لا توصله بشوي. تلمّح إن فيه روبيات مخبية في بركة الماي القريبة."
+    },
+    {
+     "id": "ft5",
+     "cat": "ft",
+     "name": "Far north-west alcove",
+     "era": "Child",
+     "steps": "Facing the Castle Town gate, follow the wall far to the left into the corner of the field. It's in a small alcove there. Tells you Peahats are weak to fire, such as Din's Fire.",
+     "src": [
+      {
+       "t": "h",
+       "v": "151ed981"
+      }
+     ],
+     "name_ar": "الفتحة في آخر زاوية يسار السوق",
+     "steps_ar": "وأنت مقابل بوابة السوق، امشِ مع الجدار يسار لين آخر زاوية في السهل. تلقاها في فتحة صغيرة هناك. تقول لك إن البيهات يضعفون من النار، مثل نار دين."
+    },
+    {
+     "id": "ft6",
+     "cat": "ft",
+     "name": "Lon Lon Ranch tower",
+     "era": "Child",
+     "steps": "On the outer wall of Lon Lon Ranch's ruined tower, the side that faces Hyrule Field. Walk to it from outside the ranch. Play Sun's Song here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "00f5171f"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.4"
+       ]
+      }
+     ],
+     "name_ar": "برج مزرعة لون لون",
+     "steps_ar": "على الجدار الخارجي لبرج مزرعة لون لون المهدوم، الجهة اللي تطل على سهل هايرول. روح لها من برا المزرعة. شغّل أغنية الشمس هنا وتتعالج كامل."
+    },
+    {
+     "id": "ft7",
+     "cat": "ft",
+     "name": "Ruins near the Kakariko bridge",
+     "era": "Child",
+     "steps": "Facing the Castle Town gate, on a ruined wall a little to its right, close to the bridge toward Kakariko. Its hint: roll into trees to knock things loose.",
+     "src": [
+      {
+       "t": "h",
+       "v": "8e8f3ae5"
+      }
+     ],
+     "name_ar": "الأطلال قرب جسر كاكاريكو",
+     "steps_ar": "وأنت مقابل بوابة السوق، على جدار مهدوم يمين البوابة بشوي، قرب الجسر اللي رايح لكاكاريكو. تلميحها: تدحرج في الأشجار عشان يطيح منها شي."
+    },
+    {
+     "id": "ft8",
+     "cat": "ft",
+     "name": "Pillar near Lake Hylia",
+     "era": "Child",
+     "steps": "On the back of a crumbling pillar by the road down to Lake Hylia. Hold a Deku Stick out near a butterfly and it turns into a Fairy you can use to heal. Try the butterfly nearby.",
+     "src": [
+      {
+       "t": "h",
+       "v": "ed1a38ad"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.2"
+       ]
+      }
+     ],
+     "name_ar": "عمود قرب بحيرة هايليا",
+     "steps_ar": "ورا عمود متهالك جنب الطريق اللي ينزل لبحيرة هايليا. طلّع عصا ديكو جنب فراشة وتتحول لجنية تقدر تتعالج فيها. جرب الفراشة اللي قريبة."
+    },
+    {
+     "id": "ft9",
+     "cat": "ft",
+     "name": "Rocks near Gerudo Valley",
+     "era": "Adult",
+     "steps": "Under a rocky overhang close to the Gerudo Valley entrance, between it and the open field, next to an empty chest. You must be an adult to see it. The chest is already empty: it's a hint to come back as a child and take the Piece of Heart first.",
+     "src": [
+      {
+       "t": "h",
+       "v": "668de3c8"
+      }
+     ],
+     "name_ar": "صخور قرب وادي الجيرودو",
+     "steps_ar": "تحت صخرة بارزة قريب من مدخل وادي الجيرودو، بينه وبين السهل، جنب صندوق فاضي. لازم تكون كبير عشان تشوفها. الصندوق فاضي أصلاً، وهي تلميح إنك ترجع وأنت صغير وتاخذ قطعة القلب قبل أحد."
+    },
+    {
+     "id": "ft10",
+     "cat": "ft",
+     "name": "Peahat swamp grotto, part 1",
+     "era": "Child",
+     "steps": "In a grotto in the muddy area with the big Peahats. Bomb the entrance open, then read the thought on the wall. Kill the Gold Skulltula on the grotto's wall, then come back as an adult for part 2.",
+     "src": [
+      {
+       "t": "h",
+       "v": "74f0b017"
+      },
+      {
+       "t": "h",
+       "v": "8199eea2"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "مغارة البيهات، الجزء 1",
+     "steps_ar": "في مغارة بالمنطقة الطينية اللي فيها البيهات الكبيرة. افتح المدخل بقنبلة واقرأ الكتابة على الجدار. اقتل السكولتولا الذهبية اللي على جدار المغارة، وارجع وأنت كبير للجزء الثاني."
+    },
+    {
+     "id": "ft11",
+     "cat": "ft",
+     "name": "Peahat swamp grotto, part 2",
+     "era": "Adult",
+     "steps": "Come back to the same grotto as an adult, after defeating the Skulltula on its wall as a child. The writing has changed: the fairy has trapped a Gold Skulltula. Smash the wooden box beside it to get the token.",
+     "src": [
+      {
+       "t": "h",
+       "v": "da186a0e"
+      }
+     ],
+     "name_ar": "مغارة البيهات، الجزء 2",
+     "steps_ar": "ارجع لنفس المغارة وأنت كبير، بعد ما قتلت السكولتولا اللي على جدارها وأنت صغير. الكتابة تغيرت: الجنية حبست السكولتولا الذهبية. كسّر الصندوق الخشب اللي جنبها وخذ التوكن."
+    }
+   ]
+  },
+  {
+   "id": "LonLonRanch",
+   "name": "Lon Lon Ranch",
+   "ar": "مزرعة لون لون",
+   "kind": "field",
+   "visit": "009c5b53",
+   "locs": [
+    "LonLonRanch"
+   ],
+   "items": [
+    {
+     "id": "gs8",
+     "cat": "gs",
+     "name": "Tree behind the main house",
+     "era": "Either",
+     "steps": "Walk around behind Talon's house (the big house by the stable) to the little yard with a wooden tower and two trees. Roll into the tall, thin one.",
+     "src": [
+      {
+       "t": "k",
+       "v": "341792603838029977"
+      }
+     ],
+     "name_ar": "شجرة ورا البيت الرئيسي",
+     "steps_ar": "لف ورا بيت تالون (البيت الكبير اللي جنب الإسطبل) للساحة الصغيرة اللي فيها برج خشبي وشجرتين. تدحرج في الطويلة النحيفة."
+    },
+    {
+     "id": "gs38",
+     "cat": "gs",
+     "name": "Main house window",
+     "era": "Child",
+     "steps": "At night, stand near the main house by the track entrance. The spider is on a window; use the Boomerang.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15889002414176907668"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "شباك البيت الرئيسي",
+     "steps_ar": "بالليل وقّف قرب البيت الرئيسي جنب مدخل المضمار. العنكبوت على شباك؛ استخدم البومرانغ."
+    },
+    {
+     "id": "gs39",
+     "cat": "gs",
+     "name": "Ruined tower ledge",
+     "era": "Either",
+     "steps": "At night, go into the ruined tower in the ranch's corner (on your left as you come in through the gate), the one with the Piece of Heart. Hit the spider on the high ledge above the vines with the Boomerang.",
+     "src": [
+      {
+       "t": "k",
+       "v": "2730878115209290675"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "حافة البرج المهدوم",
+     "steps_ar": "بالليل ادخل البرج المهدوم في زاوية المزرعة (على يسارك وأنت داخل من البوابة)، اللي فيه قطعة القلب. اضرب العنكبوت اللي على الحافة العالية فوق النباتات بالبومرانغ."
+    },
+    {
+     "id": "poh1",
+     "cat": "poh",
+     "name": "Crate storeroom",
+     "era": "Child",
+     "steps": "Go into the ruined tower in the ranch's corner (on your left as you come in through the gate). In the storeroom full of milk crates, pull the front crates out to clear the middle column, then drag the middle crate away from the back wall. Crawl through the gap to the Piece of Heart.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9814903750835309225"
+      }
+     ],
+     "name_ar": "مخزن الصناديق",
+     "steps_ar": "ادخل البرج المهدوم في زاوية المزرعة (على يسارك وأنت داخل من البوابة). في المخزن المليان صناديق حليب، اسحب الصناديق اللي قدام عشان تفضي العمود اللي بالنص، بعدين اسحب الصندوق اللي بالنص بعيد عن الجدار. ازحف من الفتحة لين قطعة القلب."
+    },
+    {
+     "id": "ft12",
+     "cat": "ft",
+     "name": "Back of the big barn",
+     "era": "Child",
+     "steps": "On the back of the large barn. A hint to talk to Malon about her song and to play it for the cows.",
+     "src": [
+      {
+       "t": "h",
+       "v": "494cf2ac"
+      }
+     ],
+     "name_ar": "ورا الحظيرة الكبيرة",
+     "steps_ar": "ورا الحظيرة الكبيرة. تلميح إنك تكلم مالون عن أغنيتها وتشغلها للبقر."
+    }
+   ]
+  },
+  {
+   "id": "Market",
+   "name": "Hyrule Castle Town",
+   "ar": "سوق القلعة",
+   "kind": "field",
+   "visit": "c88633f0",
+   "locs": [
+    "Market"
+   ],
+   "items": [
+    {
+     "id": "gs6",
+     "cat": "gs",
+     "name": "Armory by the gate",
+     "era": "Child",
+     "steps": "Take the first right inside the town gate into the armory room with the bored guard. Roll into the large crates at the far end; one hides the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8942465719711548237"
+      }
+     ],
+     "name_ar": "مخزن السلاح جنب البوابة",
+     "steps_ar": "أول ما تدخل بوابة السوق خذ أول يمين لغرفة السلاح اللي فيها الحارس الطفشان. تدحرج في الصناديق الكبيرة اللي بالآخر، وحدة فيها العنكبوت."
+    },
+    {
+     "id": "poh10",
+     "cat": "poh",
+     "name": "Richard the dog",
+     "era": "Child",
+     "steps": "After the Death Mountain gate is open, the woman in the back alley reports her white dog Richard missing. In the evening, search the alley past the Bombchu Shop; Richard is round the back corner near the Treasure Chest Shop. Get him to follow you and walk him home. Other white dogs are decoys.",
+     "src": [
+      {
+       "t": "h",
+       "v": "f2fab510"
+      }
+     ],
+     "night": true,
+     "name_ar": "الكلب ريتشارد",
+     "steps_ar": "بعد ما تنفتح بوابة جبل الموت، المرة اللي في الزقاق الخلفي تقول كلبها الأبيض ريتشارد ضايع. بالمسا دوّر في الزقاق بعد محل قنبلة الفأر؛ ريتشارد ورا الزاوية قرب محل صناديق الكنز. خله يلحقك ووصله لبيتها. باقي الكلاب البيض مو هو."
+    },
+    {
+     "id": "poh11",
+     "cat": "poh",
+     "name": "Bombchu Bowling expert course",
+     "era": "Child",
+     "steps": "The Bombchu Bowling Alley opens after Dodongo's Cavern. Each game costs 10 Rupees and gives you 10 Bombchus to hit 3 goals. Clear the beginner and advanced courses to unlock the expert course; beating it wins the Piece of Heart. Bank Bombchus off the walls to get around obstacles.",
+     "src": [
+      {
+       "t": "h",
+       "v": "61cf7ba1"
+      }
+     ],
+     "name_ar": "مستوى الخبراء في بولينغ قنابل الفئران",
+     "steps_ar": "صالة بولينغ قنابل الفئران تنفتح بعد كهف دودونغو. كل لعبة بـ 10 روبيات وتعطيك 10 قنابل الفئران تضرب فيها 3 أهداف. خلّص مستوى المبتدئين والمتقدمين عشان ينفتح مستوى الخبراء؛ إذا فزت فيه تاخذ قطعة القلب. خل قنابل الفئران ترتد من الجدران عشان تتعدى العوائق."
+    },
+    {
+     "id": "poh12",
+     "cat": "poh",
+     "name": "Treasure Chest game",
+     "era": "Child",
+     "steps": "Play the Treasure Chest Shop game with the Lens of Truth active so you can see which chest in each room holds the key. The last room's prize is the Piece of Heart.",
+     "src": [
+      {
+       "t": "h",
+       "v": "b599aeed"
+      },
+      {
+       "t": "h",
+       "v": "6e1b94a8"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.8"
+       ]
+      }
+     ],
+     "name_ar": "لعبة صناديق الكنز",
+     "steps_ar": "العب لعبة محل صناديق الكنز وعدسة الحقيقة شغالة عشان تشوف أي صندوق في كل غرفة فيه المفتاح. جائزة آخر غرفة هي قطعة القلب."
+    }
+   ]
+  },
+  {
+   "id": "HyruleCastle",
+   "name": "Hyrule Castle",
+   "ar": "قلعة هايرول",
+   "kind": "field",
+   "visit": "b7c0f231",
+   "locs": [
+    "HyruleCastle"
+   ],
+   "items": [
+    {
+     "id": "gs7",
+     "cat": "gs",
+     "name": "Tree in the garden",
+     "era": "Child",
+     "steps": "Climb over the gatehouse into the castle grounds, take the middle hedge path, and climb the wall on the left of the locked gate to get past it. In the small closed-in spot right of the vine wall by the moat, roll into the tall, thin tree.",
+     "src": [
+      {
+       "t": "k",
+       "v": "2504273934093629549"
+      }
+     ],
+     "name_ar": "شجرة في الحديقة",
+     "steps_ar": "اطلع فوق غرفة الحراسة لحدائق القلعة، امشِ مع ممر الشجيرات اللي بالنص، واطلع الجدار اللي يسار البوابة المقفلة عشان تتعداها. في المكان الصغير يمين جدار النباتات اللي على الخندق، تدحرج في الشجرة الطويلة النحيفة."
+    },
+    {
+     "id": "gs45",
+     "cat": "gs",
+     "name": "Ruined gatehouse arch",
+     "era": "Adult",
+     "steps": "Pass the Redeads in Castle Town to the ruins of the castle. Behind the old gatehouse arch, over the big pit, the spider hangs high up; Hookshot it.",
+     "src": [
+      {
+       "t": "k",
+       "v": "5626064870824758772"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "قوس غرفة الحراسة المهدومة",
+     "steps_ar": "اعبر الريديد في السوق لين أطلال القلعة. ورا قوس غرفة الحراسة القديمة فوق الحفرة الكبيرة، العنكبوت معلّق فوق؛ سوّ له الخطّاف."
+    },
+    {
+     "id": "gs54",
+     "cat": "gs",
+     "name": "Song of Storms grotto",
+     "era": "Child",
+     "steps": "After the Forest Temple, as a child, sneak past the guards to where Malon was sleeping. In the corner with the tree, play the Song of Storms on the propeller-shaped plant to open a grotto, then bomb the cracked walls inside.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9162653017526462607"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      },
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "مغارة أغنية العواصف",
+     "steps_ar": "بعد معبد الغابة، وأنت صغير تسلل من الحراس لين المكان اللي كانت تنام فيه مالون. في الزاوية اللي فيها الشجرة، شغّل أغنية العواصف على النبتة اللي شكلها مروحة عشان تنفتح مغارة، وفجّر الجدران المتشققة داخلها."
+    }
+   ]
+  },
+  {
+   "id": "KakarikoVillage",
+   "name": "Kakariko Village",
+   "ar": "قرية كاكاريكو",
+   "kind": "field",
+   "visit": "5c9e740f",
+   "locs": [
+    "KakarikoVillage"
+   ],
+   "items": [
+    {
+     "id": "gs9",
+     "cat": "gs",
+     "name": "Tall tree at the entrance",
+     "era": "Child",
+     "steps": "Roll into the tall tree at the village entrance, where the Master Craftsman shouts at his workers.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7677963516305772491"
+      }
+     ],
+     "name_ar": "الشجرة الطويلة عند المدخل",
+     "steps_ar": "تدحرج في الشجرة الطويلة عند مدخل القرية، مكان ما المعلّم يصارخ على عماله."
+    },
+    {
+     "id": "gs10",
+     "cat": "gs",
+     "name": "Cursed Spider House door",
+     "era": "Child",
+     "steps": "Stand outside the Cursed Spider House at night. The spider appears on the small web left of the door.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15314554401574296838"
+      }
+     ],
+     "night": true,
+     "name_ar": "باب بيت العناكب الملعون",
+     "steps_ar": "وقّف برا بيت العناكب بالليل. العنكبوت يطلع على الشبكة الصغيرة يسار الباب."
+    },
+    {
+     "id": "gs11",
+     "cat": "gs",
+     "name": "Unfinished building",
+     "era": "Child",
+     "steps": "At night, go to the building under construction, near the Cucco Lady's pen. Climb the scaffolding to reach the spider on a high brick ledge.",
+     "src": [
+      {
+       "t": "k",
+       "v": "14107117960174262321"
+      }
+     ],
+     "night": true,
+     "name_ar": "المبنى اللي تحت البناء",
+     "steps_ar": "بالليل روح للمبنى اللي تحت البناء، قرب حظيرة صاحبة الدجاج. اطلع مع السقالات لين توصل العنكبوت على حافة الطوب العالية."
+    },
+    {
+     "id": "gs12",
+     "cat": "gs",
+     "name": "Watchtower ladder",
+     "era": "Child",
+     "steps": "At night, look at the ladder of the tall wooden tower in the middle of the village. Shoot the spider, then climb to the token.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15118290503807073158"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.4"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "سلّم برج المراقبة",
+     "steps_ar": "بالليل شوف سلّم البرج الخشبي الطويل اللي بنص القرية. اضرب العنكبوت وبعدين اطلع وخذ التوكن."
+    },
+    {
+     "id": "gs13",
+     "cat": "gs",
+     "name": "Back of the boy's house",
+     "era": "Child",
+     "steps": "Near the wooden watchtower and the Potion Shop is a little boy's house. At night, walk round the back of it to find the spider on its web on the wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11629189455828560791"
+      }
+     ],
+     "night": true,
+     "name_ar": "ورا بيت الولد",
+     "steps_ar": "قرب البرج الخشبي ومحل الدواء فيه بيت ولد صغير. بالليل لف وراه وتلقى العنكبوت على شبكته على الجدار."
+    },
+    {
+     "id": "gs44",
+     "cat": "gs",
+     "name": "Cow stable behind Impa's house",
+     "era": "Adult",
+     "steps": "After winning Dampe's race for the Hookshot, return at night. Hookshot to the vines on the left side of Impa's old house, reach the stable with the cow, and find the spider there.",
+     "src": [
+      {
+       "t": "k",
+       "v": "3310819903461047792"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "إسطبل البقرة ورا بيت إمبا",
+     "steps_ar": "بعد ما تفوز بسباق دامبي وتاخذ الخطّاف، ارجع بالليل. استخدم الخطّاف على النباتات اللي على يسار بيت إمبا القديم، ادخل إسطبل البقرة وتلقى العنكبوت هناك."
+    },
+    {
+     "id": "poh2",
+     "cat": "poh",
+     "name": "Man on the roof",
+     "era": "Child",
+     "steps": "Carry a Cucco over the fence by the Windmill and up the ladder to the hill behind it. Glide from there onto the blue roof of the Potion Shop, cross to the side nearest the watchtower, and drop to the lower roof where a man is lounging. Talk to him.",
+     "src": [
+      {
+       "t": "h",
+       "v": "a666baa8"
+      }
+     ],
+     "name_ar": "الرجال اللي على السطح",
+     "steps_ar": "شيل دجاجة فوق السياج جنب الطاحونة واطلع السلّم للتل اللي وراها. طِر من هناك لسطح محل الدواء الأزرق، روح للجهة الأقرب لبرج المراقبة، وانزل للسطح الواطي اللي منسدح عليه رجال. كلّمه."
+    },
+    {
+     "id": "poh3",
+     "cat": "poh",
+     "name": "Roof of the cow pen",
+     "era": "Either",
+     "steps": "From the summit of Death Mountain Trail, take the owl's ride down; he drops you on top of Impa's House. Walk to the back of the roof and step down onto the roof of the walled-in cow pen behind it. As an adult you can instead Hookshot the green vines to the left of Impa's House to get over the fence.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17926402522258180222"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "سطح حظيرة البقرة",
+     "steps_ar": "من قمة طريق جبل الموت، اركب مع البومة لتحت؛ ينزلك فوق بيت إمبا. امشِ لآخر السطح وانزل على سطح حظيرة البقرة المسوّرة اللي وراه. وأنت كبير تقدر بدالها تسوي الخطّاف على النباتات الخضرا يسار بيت إمبا وتتعدى السياج."
+    },
+    {
+     "id": "poh4",
+     "cat": "poh",
+     "name": "Windmill ledge",
+     "era": "Adult",
+     "steps": "Finish Dampe's first race to get the Hookshot. From the race's end, Hookshot to the far ledge and follow the passage that comes out high inside the Windmill. Hop across the turning parts to the ledge holding the Piece of Heart.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13389209437182306002"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "حافة الطاحونة",
+     "steps_ar": "خلّص أول سباق مع دامبي عشان تاخذ الخطّاف. من نهاية السباق استخدم الخطّاف للحافة البعيدة وامشِ مع الممر اللي يطلعك فوق داخل الطاحونة. نط على الأجزاء اللي تدور لين الحافة اللي عليها قطعة القلب."
+    },
+    {
+     "id": "poh5",
+     "cat": "poh",
+     "name": "50 tokens",
+     "era": "Either",
+     "steps": "Bring 50 Gold Skulltula Tokens to the House of Skulltula and talk to the father for the reward.",
+     "src": [
+      {
+       "t": "h",
+       "v": "e3c6e4a3"
+      }
+     ],
+     "needs": [
+      {
+       "gs": 50
+      }
+     ],
+     "name_ar": "جائزة الـ 50 توكن",
+     "steps_ar": "جيب 50 عملة السكولتولا الذهبية لبيت العناكب وكلّم الأب عشان الجائزة."
+    }
+   ]
+  },
+  {
+   "id": "Graveyard",
+   "name": "Graveyard",
+   "ar": "المقبرة",
+   "kind": "field",
+   "visit": "671a6e1b",
+   "locs": [
+    "Graveyard"
+   ],
+   "items": [
+    {
+     "id": "gs14",
+     "cat": "gs",
+     "name": "Soft soil by the steps",
+     "era": "Child",
+     "steps": "Climb the steps on the left side of the Graveyard to the soft soil beyond a small tree. Release a Bug from your bottle (you can find Bugs under the stones at the entrance).",
+     "src": [
+      {
+       "t": "k",
+       "v": "16798263777516949500"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة جنب الدرج",
+     "steps_ar": "اطلع الدرج اللي على يسار المقبرة للتربة اللينة ورا شجرة صغيرة. طلّع حشرة من القنينة عليها (تلقى حشرات تحت الحجارة عند المدخل)."
+    },
+    {
+     "id": "gs40",
+     "cat": "gs",
+     "name": "Behind Dampe's cabin",
+     "era": "Either",
+     "steps": "At night, go behind Dampe's cabin. The spider is on a high wall; hit it with the Boomerang. As an adult you could use the Hookshot instead.",
+     "src": [
+      {
+       "t": "k",
+       "v": "229475726653285413"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "ورا كوخ دامبي",
+     "steps_ar": "بالليل روح ورا كوخ دامبي. العنكبوت على جدار عالي؛ اضربه بالبومرانغ. وإذا كنت كبير تقدر تستخدم الخطّاف."
+    },
+    {
+     "id": "poh6",
+     "cat": "poh",
+     "name": "Dampe's digging tour",
+     "era": "Child",
+     "steps": "At night, ask Dampe for his grave-digging tour. Dirt mounds appear around the graveyard; lead him to one and pay 10 Rupees per dig. When he says he has found something heavy, pay the extra 5 Rupees he asks for: that dig is the Piece of Heart.",
+     "src": [
+      {
+       "t": "h",
+       "v": "b5127e75"
+      }
+     ],
+     "night": true,
+     "name_ar": "جولة الحفر مع دامبي",
+     "steps_ar": "بالليل اطلب من دامبي جولة حفر القبور. تطلع أكوام تراب حول المقبرة؛ ودّه لوحدة وادفع 10 روبيات لكل حفرة. لما يقول لقى شي ثقيل، ادفع الـ 5 روبيات الزيادة اللي يطلبها: هذي الحفرة فيها قطعة القلب."
+    },
+    {
+     "id": "poh7",
+     "cat": "poh",
+     "name": "Hidden grave chest",
+     "era": "Either",
+     "steps": "In the row of graves right below the Royal Family's Tomb, pull back the grave at the end of the row closest to you as you walk in, and drop in. No enemies; just open the big chest.",
+     "src": [
+      {
+       "t": "h",
+       "v": "9c89c565"
+      }
+     ],
+     "name_ar": "صندوق القبر المخفي",
+     "steps_ar": "في صف القبور اللي تحت قبر العائلة الملكية على طول، اسحب القبر اللي في طرف الصف الأقرب لك وأنت داخل، وانزل. ما فيه أعداء، بس افتح الصندوق الكبير."
+    },
+    {
+     "id": "poh8",
+     "cat": "poh",
+     "name": "Ruins ledge (bean ride)",
+     "era": "Adult",
+     "steps": "As a child, plant a Magic Bean in the soft soil next to the graveyard's dead tree. As an adult, ride the flower platform up to the raised ruins where the Piece of Heart sits.",
+     "src": [
+      {
+       "t": "k",
+       "v": "2157466067026784951"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      }
+     ],
+     "name_ar": "حافة الأطلال (نبتة الفاصوليا)",
+     "steps_ar": "وأنت صغير ازرع الفاصوليا السحرية في التربة اللينة جنب الشجرة الميتة اللي في المقبرة. وأنت كبير اركب منصة الزهرة لين الأطلال المرتفعة اللي عليها قطعة القلب."
+    },
+    {
+     "id": "poh9",
+     "cat": "poh",
+     "name": "Dampe's race under a minute",
+     "era": "Adult",
+     "steps": "After winning the Hookshot, race Dampe's ghost again and finish in under 60 seconds. Keep sprinting, learn the route, and dodge his flames. The Longshot lets you skip part of the last staircase.",
+     "src": [
+      {
+       "t": "h",
+       "v": "5a66513c"
+      },
+      {
+       "t": "h",
+       "v": "8331e107"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "سباق دامبي بأقل من دقيقة",
+     "steps_ar": "بعد ما تاخذ الخطّاف، سابق شبح دامبي مرة ثانية وخلّص بأقل من 60 ثانية. خلك راكض، احفظ الطريق، وتفادى ناره. الخطّاف الطويل يخليك تختصر جزء من آخر درج."
+    },
+    {
+     "id": "ft13",
+     "cat": "ft",
+     "name": "Broken pillar by Sun's Song",
+     "era": "Child",
+     "steps": "On a broken pillar near the Sun's Song pedestal. Play Sun's Song here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "2e9d02ca"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.4"
+       ]
+      }
+     ],
+     "name_ar": "العمود المكسور جنب أغنية الشمس",
+     "steps_ar": "على عمود مكسور قرب منصة أغنية الشمس. شغّل أغنية الشمس هنا وتتعالج كامل."
+    },
+    {
+     "id": "ft14",
+     "cat": "ft",
+     "name": "Tomb stairs",
+     "era": "Child",
+     "steps": "On the smashed gravestone behind the stairs down to the royal tomb where you learn Sun's Song. Tells you Sun's Song can stun Redeads, like those in the royal tomb.",
+     "src": [
+      {
+       "t": "h",
+       "v": "444057da"
+      }
+     ],
+     "name_ar": "درج القبر",
+     "steps_ar": "على شاهد القبر المكسور ورا الدرج اللي ينزل لقبر العائلة الملكية اللي تتعلم فيه أغنية الشمس. تقول لك إن أغنية الشمس يجمّد الريديد، مثل اللي في القبر الملكي."
+    }
+   ]
+  },
+  {
+   "id": "DeathMountainTrail",
+   "name": "Death Mountain Trail",
+   "ar": "طريق جبل الموت",
+   "kind": "field",
+   "visit": "3c72143a",
+   "locs": [
+    "DeathMountainTrail"
+   ],
+   "items": [
+    {
+     "id": "gs19",
+     "cat": "gs",
+     "name": "Soft soil in the Dodongo's Cavern tunnel",
+     "era": "Child",
+     "steps": "With the Goron Bracelet, grab the lone Bomb Flower from the Goron on the trail and throw it down at the boulder over Dodongo's Cavern. Inside the opened tunnel, release a Bug on the soft soil.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17425319789138387506"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.0"
+       ]
+      },
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة في نفق كهف دودونغو",
+     "steps_ar": "بسوار الغورون، شيل زهرة القنبلة اللي جنب الغوروني على الطريق وارميها على الصخرة اللي فوق كهف دودونغو. داخل النفق اللي انفتح، طلّع حشرة على التربة اللينة."
+    },
+    {
+     "id": "gs24",
+     "cat": "gs",
+     "name": "Cracked wall by the Tektites",
+     "era": "Either",
+     "steps": "Just past the corner from the Kakariko path, bomb the cracked wall near the Red Tektites. The spider is inside, even by day.",
+     "src": [
+      {
+       "t": "k",
+       "v": "351345377871782696"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "جدار متشقق جنب التكتايت",
+     "steps_ar": "بعد اللفة من طريق كاكاريكو على طول، فجّر الجدار المتشقق قرب التكتايت الحمر. العنكبوت داخل، حتى بالنهار."
+    },
+    {
+     "id": "gs64",
+     "cat": "gs",
+     "name": "Grey rock near the summit",
+     "era": "Adult",
+     "steps": "At night, walk down the trail from the Great Fairy Fountain toward Goron City and smash the large grey rock with the hammer.",
+     "src": [
+      {
+       "t": "k",
+       "v": "832677387023638406"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.13"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "صخرة رمادية قرب القمة",
+     "steps_ar": "بالليل انزل مع الطريق من نافورة الجنية العظيمة باتجاه مدينة الغورون وكسّر الصخرة الرمادية الكبيرة بالمطرقة."
+    },
+    {
+     "id": "gs65",
+     "cat": "gs",
+     "name": "Grey rock by the old Bomb Flower",
+     "era": "Adult",
+     "steps": "Leaving Goron City, smash the large grey rock where the lone Bomb Flower used to be. The spider shows at night.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17669199296215821346"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.13"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "صخرة رمادية مكان زهرة القنبلة القديمة",
+     "steps_ar": "وأنت طالع من مدينة الغورون، كسّر الصخرة الرمادية الكبيرة اللي في مكان زهرة القنبلة اللي كانت لحالها. العنكبوت يطلع بالليل."
+    },
+    {
+     "id": "poh20",
+     "cat": "poh",
+     "name": "Bean ride above Dodongo's Cavern",
+     "era": "Adult",
+     "steps": "As a child, plant a Magic Bean in the soft soil by the entrance to Dodongo's Cavern. As an adult, ride the flower platform up to the high ledge with the Piece of Heart.",
+     "src": [
+      {
+       "t": "k",
+       "v": "715147239509454487"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      }
+     ],
+     "name_ar": "نبتة الفاصوليا فوق كهف دودونغو",
+     "steps_ar": "وأنت صغير ازرع الفاصوليا السحرية في التربة اللينة جنب مدخل كهف دودونغو. وأنت كبير اركب منصة الزهرة للحافة العالية اللي عليها قطعة القلب."
+    },
+    {
+     "id": "ft15",
+     "cat": "ft",
+     "name": "Cliff south of Goron City",
+     "era": "Child",
+     "steps": "On a cliff edge just before the Goron City entrance (as you walk up the trail), near the grotto covered by a spinning leaf. Play the Song of Storms to lift the leaf and open the grotto below.",
+     "src": [
+      {
+       "t": "h",
+       "v": "39885d67"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      }
+     ],
+     "name_ar": "منحدر قبل مدينة الغورون",
+     "steps_ar": "على حافة منحدر قبل مدخل مدينة الغورون بشوي (وأنت طالع مع الطريق)، قرب المغارة اللي مغطيتها ورقة تدور. شغّل أغنية العواصف عشان ترتفع الورقة وتنفتح المغارة اللي تحت."
+    }
+   ]
+  },
+  {
+   "id": "GoronCity",
+   "name": "Goron City",
+   "ar": "مدينة الغورون",
+   "kind": "field",
+   "visit": "ecf401b9",
+   "locs": [
+    "GoronCity"
+   ],
+   "items": [
+    {
+     "id": "gs25",
+     "cat": "gs",
+     "name": "Hidden boulder room",
+     "era": "Child",
+     "steps": "On the entrance tier, bomb the boulders on the upper left to a room of rocks and black obelisks. Bomb right, then left, then straight to two chests of Blue Rupees and a crate; roll into it to find the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "569390966671955163"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "غرفة الصخور المخفية",
+     "steps_ar": "في الدور اللي فيه المدخل، فجّر الصخور اللي فوق على اليسار لغرفة فيها صخور وأعمدة سودا. فجّر يمين، بعدين يسار، بعدين قدام لين صندوقين فيهم الروبيات الزرقا وصندوق خشب؛ تدحرج فيه وتلقى العنكبوت."
+    },
+    {
+     "id": "gs57",
+     "cat": "gs",
+     "name": "Under the central platform",
+     "era": "Adult",
+     "steps": "At night, drop from the top ring to the level below and go behind the central platform that held the Fire Stone. The spider is on the downward rock at the back.",
+     "src": [
+      {
+       "t": "k",
+       "v": "18139423190738716302"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "تحت المنصة اللي بالنص",
+     "steps_ar": "بالليل انزل من الحلقة العلوية للدور اللي تحتها وروح ورا المنصة اللي بالنص اللي كان عليها حجر النار. العنكبوت على الصخرة اللي ورا."
+    },
+    {
+     "id": "poh17",
+     "cat": "poh",
+     "name": "Spinning pot",
+     "era": "Child",
+     "steps": "Light the torches around the big Goron-faced pot on the bottom floor with a Deku Stick to start it spinning. From the plank near its rim, toss a Bomb in; if the pot stops on the happy face, you get the Piece of Heart.",
+     "src": [
+      {
+       "t": "h",
+       "v": "1d1793e9"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.2"
+       ]
+      },
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "الجرة اللي تدور",
+     "steps_ar": "ولّع الشعل اللي حول الجرة الكبيرة أم وجه غوروني في الدور الأرضي بعصا ديكو عشان تبدأ تدور. من اللوح اللي جنب حافتها ارمِ قنبلة داخلها؛ إذا وقفت الجرة على الوجه الفرحان تاخذ قطعة القلب."
+    }
+   ]
+  },
+  {
+   "id": "DeathMountainCrater",
+   "name": "Death Mountain Crater",
+   "ar": "فوهة جبل الموت",
+   "kind": "field",
+   "visit": "d0e4b0da",
+   "locs": [
+    "DeathMountainCrater"
+   ],
+   "items": [
+    {
+     "id": "gs26",
+     "cat": "gs",
+     "name": "Crates on the left",
+     "era": "Child",
+     "steps": "Run fast, as the heat starts hurting after a few seconds. Roll into the furthest of the two crates by the pot on the left side.",
+     "src": [
+      {
+       "t": "k",
+       "v": "18219295034534354574"
+      }
+     ],
+     "name_ar": "الصناديق اللي على اليسار",
+     "steps_ar": "اركض بسرعة لأن الحرارة تضرك بعد كم ثانية. تدحرج في أبعد صندوق من الاثنين اللي جنب الجرة على اليسار."
+    },
+    {
+     "id": "gs58",
+     "cat": "gs",
+     "name": "Soft soil outside the Fire Temple",
+     "era": "Child",
+     "steps": "After reaching the Fire Temple as an adult, return as a child with a bottled Bug and warp with the Bolero of Fire. Quickly release the Bug on the soft soil nearby.",
+     "src": [
+      {
+       "t": "k",
+       "v": "6397182598322965076"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة برا معبد النار",
+     "steps_ar": "بعد ما توصل معبد النار وأنت كبير، ارجع وأنت صغير ومعك حشرة في قنينة وانتقل ببوليرو النار. طلّع الحشرة بسرعة على التربة اللينة اللي قريبة."
+    },
+    {
+     "id": "poh18",
+     "cat": "poh",
+     "name": "Wall alcove",
+     "era": "Child",
+     "steps": "Just inside the crater entrance, run down the slope and right between two big rocks to the climbing mesh. Climb down to the alcove under it. The heat starts hurting you after a few seconds, so be quick.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10331043360028932045"
+      }
+     ],
+     "name_ar": "فتحة في الجدار",
+     "steps_ar": "أول ما تدخل الفوهة، انزل مع المنحدر ويمين بين صخرتين كبار لين الشبك اللي تتسلقه. انزل للفتحة اللي تحته. الحرارة تضرك بعد كم ثانية، فكن سريع."
+    },
+    {
+     "id": "poh19",
+     "cat": "poh",
+     "name": "Business Scrub",
+     "era": "Child",
+     "steps": "Run down the slope from the entrance to the low platform by the broken bridge blocked by a grey rock. A Business Scrub there sells a Piece of Heart for 100 Rupees.",
+     "src": [
+      {
+       "t": "h",
+       "v": "6b8fc751"
+      }
+     ],
+     "name_ar": "شجيرة ديكو البيّاعة",
+     "steps_ar": "انزل مع المنحدر من المدخل للمنصة الواطية جنب الجسر المكسور اللي سادته صخرة رمادية. فيه شجيرة ديكو البيّاعة يبيع قطعة قلب بـ 100 روبية."
+    },
+    {
+     "id": "poh21",
+     "cat": "poh",
+     "name": "Rock pillar (bean ride)",
+     "era": "Adult",
+     "steps": "Once you have the Bolero of Fire, travel back to the child era and warp to the crater with it. Plant a Magic Bean in the soil there quickly before the heat gets you, then leave. As an adult, ride the flower platform to the top of the rock pillar.",
+     "src": [
+      {
+       "t": "k",
+       "v": "744856631664786545"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      },
+      {
+       "any": [
+        "songs.7"
+       ]
+      }
+     ],
+     "name_ar": "العمود الصخري (نبتة الفاصوليا)",
+     "steps_ar": "لما يصير معك بوليرو النار، ارجع لزمن الصغير وانتقل للفوهة فيها. ازرع الفاصوليا السحرية في التربة بسرعة قبل الحرارة تضرك، واطلع. وأنت كبير اركب منصة الزهرة لأعلى العمود الصخري."
+    }
+   ]
+  },
+  {
+   "id": "ZoraRiver",
+   "name": "Zora's River",
+   "ar": "نهر زورا",
+   "kind": "field",
+   "visit": "2e975eed",
+   "locs": [
+    "ZoraRiver"
+   ],
+   "items": [
+    {
+     "id": "gs28",
+     "cat": "gs",
+     "name": "Soft soil by the Bean Seller",
+     "era": "Child",
+     "steps": "Blow up the boulders along the river to reach the Magic Bean seller. Release a Bug on the soft soil right next to him.",
+     "src": [
+      {
+       "t": "k",
+       "v": "12370559827741970774"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      },
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة جنب بياع الفاصوليا",
+     "steps_ar": "فجّر الصخور اللي على النهر لين توصل بياع الفاصوليا السحرية. طلّع حشرة على التربة اللينة اللي جنبه على طول."
+    },
+    {
+     "id": "gs29",
+     "cat": "gs",
+     "name": "Behind the waterfall",
+     "era": "Child",
+     "steps": "Follow the river up to the waterfall hiding Zora's Domain. Drop down at its base and climb the vines to the central platform; at night the spider appears behind the vines.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8695975724114049706"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "ورا الشلال",
+     "steps_ar": "امشِ مع النهر لين الشلال اللي مخبي مملكة زورا. انزل لتحته واطلع النباتات للمنصة اللي بالنص؛ بالليل يطلع العنكبوت ورا النباتات."
+    },
+    {
+     "id": "gs66",
+     "cat": "gs",
+     "name": "Island south side",
+     "era": "Adult",
+     "steps": "Reach the large island in the middle of the river with your bean plant or a Cucco. Climb to the island's high ledge and, at night, Hookshot the spider that appears there.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10917372215719266172"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "حافة الجزيرة العالية",
+     "steps_ar": "وصّل للجزيرة الكبيرة اللي بنص النهر بنبتة الفاصوليا أو بدجاجة. اطلع للحافة العالية في الجزيرة، وبالليل استخدم الخطّاف على العنكبوت اللي يطلع هناك."
+    },
+    {
+     "id": "gs67",
+     "cat": "gs",
+     "name": "West wall by the falls",
+     "era": "Adult",
+     "steps": "At night, go to the top of the river by the big waterfall (the entrance to Zora's Domain) and look around at the high rock walls. The spider hangs on one of them, within Hookshot range.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9450239379321634455"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "الجدار العالي جنب الشلال",
+     "steps_ar": "بالليل روح لأعلى النهر جنب الشلال الكبير (مدخل مملكة زورا) وشوف حولك على الجدران الصخرية العالية. العنكبوت معلّق على وحدة منها في مدى الخطّاف."
+    },
+    {
+     "id": "poh22",
+     "cat": "poh",
+     "name": "Ledge above the frogs",
+     "era": "Either",
+     "steps": "Carry the Cucco from near the start of the river up onto the island in the middle of the river, and glide with it to the island's high platform. Bomb the grotto on the island's high ledge to find a second Cucco, carry it to the narrow platform with the Sheikah Stone, and glide over to the ledge above the frogs.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11455676800795329345"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "الحافة اللي فوق الضفادع",
+     "steps_ar": "شيل الدجاجة اللي قرب بداية النهر لين الجزيرة اللي بنص النهر، وطِر فيها لمنصة الجزيرة العالية. فجّر المغارة اللي على حافة الجزيرة العالية تلقى دجاجة ثانية، شيلها للمنصة الضيقة اللي فيها حجر الشيكا وطِر للحافة اللي فوق الضفادع."
+    },
+    {
+     "id": "poh23",
+     "cat": "poh",
+     "name": "Platform by the waterfall",
+     "era": "Either",
+     "steps": "Bring the Cucco from beyond the gate past the Bean Seller up to the Zora's Domain entrance. Cross the platforms to the high ledge on the far side, then glide to the tiny platform next to the waterfall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "4189391771527808272"
+      }
+     ],
+     "name_ar": "المنصة جنب الشلال",
+     "steps_ar": "جيب الدجاجة من ورا البوابة بعد بياع الفاصوليا لين مدخل مملكة زورا. اعبر المنصات للحافة العالية في الجهة الثانية، وطِر للمنصة الصغيرة اللي جنب الشلال."
+    },
+    {
+     "id": "poh24",
+     "cat": "poh",
+     "name": "Song of Storms for the frogs",
+     "era": "Child",
+     "steps": "Play the Song of Storms for the frogs as a child.",
+     "src": [
+      {
+       "t": "h",
+       "v": "d578df95"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      }
+     ],
+     "name_ar": "أغنية العواصف للضفادع",
+     "steps_ar": "شغّل أغنية العواصف للضفادع وأنت صغير."
+    },
+    {
+     "id": "poh25",
+     "cat": "poh",
+     "name": "Frog song game",
+     "era": "Child",
+     "steps": "Play all six of these songs for the frogs, then talk to them again to start their game: play the note matching the frog the fly is hovering over, quickly, all the way through the sequence.",
+     "src": [
+      {
+       "t": "h",
+       "v": "3adbd558"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.0"
+       ]
+      },
+      {
+       "any": [
+        "songs.1"
+       ]
+      },
+      {
+       "any": [
+        "songs.2"
+       ]
+      },
+      {
+       "any": [
+        "songs.4"
+       ]
+      },
+      {
+       "any": [
+        "songs.3"
+       ]
+      },
+      {
+       "any": [
+        "songs.5"
+       ]
+      }
+     ],
+     "name_ar": "لعبة أغاني الضفادع",
+     "steps_ar": "شغّل للضفادع الست أغاني كلها، بعدين كلّمهم مرة ثانية عشان تبدأ اللعبة: اضرب النغمة اللي تطابق الضفدع اللي الذبابة فوقه، بسرعة، لين آخر السلسلة."
+    },
+    {
+     "id": "ft16",
+     "cat": "ft",
+     "name": "Cliff below the broken bridge",
+     "era": "Child",
+     "steps": "On a cliff face reached by following the river to the broken bridge, jumping over and dropping down. Its hint: bugs let loose over a soft-soil patch draw out a Gold Skulltula. Bugs hide under the rock nearby, and there is a soil patch beside the Magic Bean Seller.",
+     "src": [
+      {
+       "t": "h",
+       "v": "3b37943b"
+      }
+     ],
+     "name_ar": "المنحدر تحت الجسر المكسور",
+     "steps_ar": "على وجه منحدر توصله إذا مشيت مع النهر لين الجسر المكسور ونطيت ونزلت. تلميحها: الحشرات إذا طلّعتها على تربة لينة يطلع لك السكولتولا الذهبية. فيه حشرات تحت الصخرة القريبة، وفيه تربة لينة جنب بياع الفاصوليا."
+    }
+   ]
+  },
+  {
+   "id": "ZoraDomain",
+   "name": "Zora's Domain",
+   "ar": "مملكة زورا",
+   "kind": "field",
+   "visit": "ede02703",
+   "locs": [
+    "ZoraDomain"
+   ],
+   "items": [
+    {
+     "id": "gs68",
+     "cat": "gs",
+     "name": "Beside the frozen falls",
+     "era": "Adult",
+     "steps": "Climb to the top of the frozen waterfall and aim left from the ledge, toward the spider left of the stairs to the throne room.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9600417828645642589"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "جنب الشلال المتجمد",
+     "steps_ar": "اطلع لأعلى الشلال المتجمد ووجّه يسار من الحافة، على العنكبوت اللي يسار درج غرفة العرش."
+    },
+    {
+     "id": "poh26",
+     "cat": "poh",
+     "name": "Torch chest",
+     "era": "Either",
+     "steps": "Light a Deku Stick at the lit torches by King Zora's chamber and run down through the Domain lighting each unlit torch, putting the stick away and relighting it as you go. The last two are on the path behind the big waterfall. Light them all to make a chest appear.",
+     "src": [
+      {
+       "t": "h",
+       "v": "a1678ed9"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.2"
+       ]
+      }
+     ],
+     "name_ar": "صندوق الشعل",
+     "steps_ar": "ولّع عصا ديكو من الشعل المولعة جنب غرفة الملك زورا وانزل في المملكة وولّع كل شعلة طافية، وكل شوي دخّل العصا وولّعها من جديد. آخر ثنتين على الطريق اللي ورا الشلال الكبير. ولّعها كلها ويطلع صندوق."
+    }
+   ]
+  },
+  {
+   "id": "ZoraFountain",
+   "name": "Zora's Fountain",
+   "ar": "نافورة زورا",
+   "kind": "field",
+   "visit": "5de8bbd8",
+   "locs": [
+    "ZoraFountain"
+   ],
+   "items": [
+    {
+     "id": "gs32",
+     "cat": "gs",
+     "name": "Trees south of the path",
+     "era": "Child",
+     "steps": "After showing Ruto's letter to King Zora, go into the Fountain and follow the shallow path through the water to the patch of land with trees and a cracked wall. Roll into the tall, thin trees.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17355397719442343054"
+      }
+     ],
+     "name_ar": "الأشجار بعد الطريق الضحل",
+     "steps_ar": "بعد ما توري الملك زورا رسالة روتو، ادخل النافورة وامشِ مع الطريق الضحل اللي في الماي لين الأرض اللي فيها أشجار وجدار متشقق. تدحرج في الأشجار الطويلة النحيفة."
+    },
+    {
+     "id": "gs37",
+     "cat": "gs",
+     "name": "Archway wall at night",
+     "era": "Child",
+     "steps": "Come back with the Boomerang and play the Sun's Song. Climb the water archway nearby; the spider shows up on the far wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7152962033963346563"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "جدار القوس بالليل",
+     "steps_ar": "ارجع ومعك البومرانغ وشغّل أغنية الشمس. اطلع قوس الماي اللي قريب؛ العنكبوت يطلع على الجدار البعيد."
+    },
+    {
+     "id": "gs100",
+     "cat": "gs",
+     "name": "Rock-blocked cave tunnel",
+     "era": "Adult",
+     "steps": "Near the Great Fairy's Fountain, lift the stack of obsidian rocks with the Silver Gauntlets to open a cave. Use the Lens of Truth to deal with the invisible Skulltulas, go all the way up, then turn round for the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9537398183107003742"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.1"
+       ]
+      },
+      {
+       "any": [
+        "items.8"
+       ]
+      }
+     ],
+     "name_ar": "نفق الكهف المسدود بالصخور",
+     "steps_ar": "قرب نافورة الجنية العظيمة، شيل كومة الصخور السودا بالقفازات الفضية عشان ينفتح كهف. استخدم عدسة الحقيقة للسكولتولا المخفية، اطلع لين فوق، ولف تلقى العنكبوت."
+    },
+    {
+     "id": "poh27",
+     "cat": "poh",
+     "name": "Iceberg",
+     "era": "Adult",
+     "steps": "Hop across the icebergs in the frozen fountain to the corner farthest from where you came in.",
+     "src": [
+      {
+       "t": "k",
+       "v": "12406896586250888098"
+      }
+     ],
+     "name_ar": "الجبل الجليدي",
+     "steps_ar": "نط على الجبال الجليدية في النافورة المتجمدة لين أبعد زاوية عن المكان اللي دخلت منه."
+    },
+    {
+     "id": "poh28",
+     "cat": "poh",
+     "name": "Lake floor",
+     "era": "Adult",
+     "steps": "Sink to the bottom of the fountain with the Iron Boots. The Piece of Heart sits in a ring of green Rupees. Wear the Zora Tunic so you do not run out of air.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8030885465575590602"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      }
+     ],
+     "name_ar": "قاع البحيرة",
+     "steps_ar": "انزل لقاع النافورة بالجزمة الحديدية. قطعة القلب وسط دائرة الروبيات خضرا. البس رداء الزورا عشان ما يخلص نفَسك."
+    }
+   ]
+  },
+  {
+   "id": "LakeHylia",
+   "name": "Lake Hylia",
+   "ar": "بحيرة هايليا",
+   "kind": "field",
+   "visit": "36778630",
+   "locs": [
+    "LakeHylia"
+   ],
+   "items": [
+    {
+     "id": "gs30",
+     "cat": "gs",
+     "name": "Soft soil by the Observatory",
+     "era": "Child",
+     "steps": "Release a Bug on the soft soil outside the Lakeside Laboratory.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7014193622407727514"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة جنب المختبر",
+     "steps_ar": "طلّع حشرة على التربة اللينة برا مختبر البحيرة."
+    },
+    {
+     "id": "gs31",
+     "cat": "gs",
+     "name": "Southwest shore tunnel",
+     "era": "Child",
+     "steps": "Swim from the island with the big tree to the edge of the lake and look for a tiny ledge with a small tunnel opening. Climb onto it and crawl through the tunnel to the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8655370827943125875"
+      }
+     ],
+     "name_ar": "نفق طرف البحيرة",
+     "steps_ar": "اسبح من الجزيرة اللي فيها الشجرة الكبيرة لطرف البحيرة، ودوّر على حافة صغيرة فيها فتحة نفق صغير. اطلع عليها وازحف في النفق لين العنكبوت."
+    },
+    {
+     "id": "gs43",
+     "cat": "gs",
+     "name": "Rope bridge to the Observatory",
+     "era": "Child",
+     "steps": "Walk onto the rope bridge to the Observatory and play the Sun's Song. Look back for the spider just out of reach and use the Boomerang.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13944703896577680014"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "الجسر الحبلي للمختبر",
+     "steps_ar": "امشِ على الجسر الحبلي اللي رايح للمختبر وشغّل أغنية الشمس. لف وراك تلقى العنكبوت بعيد شوي واستخدم البومرانغ."
+    },
+    {
+     "id": "gs72",
+     "cat": "gs",
+     "name": "Observatory pool crate",
+     "era": "Adult",
+     "steps": "Wear the Iron Boots to sink to the bottom of the Laboratory pool. Roll into the crate down there and Hookshot the spider that comes out.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7388645484070660331"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.7"
+       ]
+      },
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "صندوق في بركة المختبر",
+     "steps_ar": "البس الجزمة الحديدية وانزل لقاع بركة المختبر. تدحرج في الصندوق اللي تحت واستخدم الخطّاف على العنكبوت اللي يطلع."
+    },
+    {
+     "id": "gs78",
+     "cat": "gs",
+     "name": "Great tree top",
+     "era": "Adult",
+     "steps": "On the big tree island, play the Sun's Song. Longshot to the vines near the top of the tree and climb to the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "789492162651991711"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "أعلى الشجرة الكبيرة",
+     "steps_ar": "على جزيرة الشجرة الكبيرة، شغّل أغنية الشمس. استخدم الخطّاف الطويل على النباتات اللي قرب أعلى الشجرة واطلع للعنكبوت."
+    },
+    {
+     "id": "poh29",
+     "cat": "poh",
+     "name": "Fishing Pond",
+     "era": "Child",
+     "steps": "Rent a rod at the Fishing Pond across from the scarecrows and land a fish over 40 cm as a child.",
+     "src": [
+      {
+       "t": "h",
+       "v": "f1891f6e"
+      }
+     ],
+     "name_ar": "بركة الصيد",
+     "steps_ar": "استأجر صنارة من بركة الصيد اللي مقابل الفزاعات وصِد سمكة أكبر من 40 سم وأنت صغير."
+    },
+    {
+     "id": "poh30",
+     "cat": "poh",
+     "name": "Observatory roof (bean ride)",
+     "era": "Adult",
+     "steps": "As a child, plant a Magic Bean in the soil outside the Observatory. As an adult, ride the flower platform to the top and climb the ladder to the Piece of Heart.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13469300937852836203"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      }
+     ],
+     "name_ar": "سطح المختبر (نبتة الفاصوليا)",
+     "steps_ar": "وأنت صغير ازرع الفاصوليا السحرية في التربة اللي برا المختبر. وأنت كبير اركب منصة الزهرة لفوق واطلع السلّم لقطعة القلب."
+    },
+    {
+     "id": "poh31",
+     "cat": "poh",
+     "name": "Observatory diving pool",
+     "era": "Adult",
+     "steps": "The scientist challenges you to touch the bottom of his 9-metre pool. Win the Golden Scale at the Fishing Pond as an adult first, then dive to the bottom and talk to him.",
+     "src": [
+      {
+       "t": "h",
+       "v": "56504cb1"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.4"
+       ]
+      }
+     ],
+     "name_ar": "بركة الغوص في المختبر",
+     "steps_ar": "العالم يتحداك تلمس قاع بركته اللي عمقها 9 متر. فُز أول بالحرشفة الذهبية من بركة الصيد وأنت كبير، بعدين غُص للقاع وكلّمه."
+    },
+    {
+     "id": "ft17",
+     "cat": "ft",
+     "name": "South-west shore",
+     "era": "Either",
+     "steps": "On the narrow strip of land at the lake's edge, beside a small alcove (the same spot as the spider tunnel). A Fairy is hiding in one of the jars nearby. Break it and catch it in a bottle.",
+     "src": [
+      {
+       "t": "h",
+       "v": "8b8f3a34"
+      }
+     ],
+     "name_ar": "الشريط الضيق على طرف البحيرة",
+     "steps_ar": "على الشريط الضيق من الأرض في طرف البحيرة، جنب فتحة صغيرة (نفس مكان نفق العنكبوت). فيه جنية مستخبية في وحدة من الجرار القريبة. كسّرها وامسكها في قنينة."
+    }
+   ]
+  },
+  {
+   "id": "GerudoValley",
+   "name": "Gerudo Valley",
+   "ar": "وادي الجيرودو",
+   "kind": "field",
+   "visit": "5a6c8704",
+   "locs": [
+    "GerudoValley"
+   ],
+   "items": [
+    {
+     "id": "gs41",
+     "cat": "gs",
+     "name": "Under the plank bridge",
+     "era": "Child",
+     "steps": "Just inside the valley, at the small plank over the pool, play the Sun's Song. The spider appears under the bridge; hop down to it.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15265071047503310220"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "تحت الجسر الخشبي",
+     "steps_ar": "أول ما تدخل الوادي، عند اللوح الصغير اللي فوق البركة، شغّل أغنية الشمس. العنكبوت يطلع تحت الجسر؛ انزل له."
+    },
+    {
+     "id": "gs42",
+     "cat": "gs",
+     "name": "Soft soil in the cow alcove",
+     "era": "Child",
+     "steps": "Grab a Cucco near the bridge and glide down to the large alcove on the water's edge. A Gerudo looks after a cow there; release a Bug on the soft soil nearby.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8326970197618554626"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      },
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة عند البقرة",
+     "steps_ar": "خذ دجاجة قرب الجسر وطِر فيها لتحت للمكان الكبير اللي على حافة الماي. فيه الجيرودو تعتني ببقرة؛ طلّع حشرة على التربة اللينة اللي قريبة."
+    },
+    {
+     "id": "gs87",
+     "cat": "gs",
+     "name": "Behind the carpenters' tent",
+     "era": "Adult",
+     "steps": "Cross the broken bridge by Epona or Longshot. At night, behind the new carpenters' tent, the spider is on the ruin wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13584527502619061465"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12",
+        "songs.1"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "ورا خيمة النجارين",
+     "steps_ar": "اعبر الجسر المكسور بإيبونا أو بالخطّاف الطويل. بالليل، ورا خيمة النجارين الجديدة، العنكبوت على جدار الأطلال."
+    },
+    {
+     "id": "gs88",
+     "cat": "gs",
+     "name": "Rock arch, south side",
+     "era": "Adult",
+     "steps": "Cross the broken bridge. Across from the carpenters' tent, smash the large rocks with the hammer. At night, look up inside the natural stone arch.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11535915511003753934"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12",
+        "songs.1"
+       ]
+      },
+      {
+       "any": [
+        "items.13"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "القوس الصخري مقابل خيمة النجارين",
+     "steps_ar": "اعبر الجسر المكسور. في المكان اللي مقابل خيمة النجارين، كسّر الصخور الكبيرة بالمطرقة. بالليل شوف فوق داخل القوس الصخري الطبيعي."
+    },
+    {
+     "id": "poh32",
+     "cat": "poh",
+     "name": "Chest across the canyon",
+     "era": "Either",
+     "steps": "Grab the Cucco near the closed bridge and glide across the canyon to the chest on the opposite wall.",
+     "src": [
+      {
+       "t": "h",
+       "v": "7001f17c"
+      }
+     ],
+     "name_ar": "الصندوق اللي ورا الوادي",
+     "steps_ar": "خذ الدجاجة اللي قرب الجسر المسكّر وطِر فيها عبر الوادي للصندوق اللي على الجدار المقابل."
+    },
+    {
+     "id": "poh33",
+     "cat": "poh",
+     "name": "Behind the waterfall",
+     "era": "Either",
+     "steps": "Take the Cucco near the bridge and glide down to the large alcove at the river's edge. Follow the river to the big waterfall and climb the path behind it.",
+     "src": [
+      {
+       "t": "k",
+       "v": "16129198288828948135"
+      }
+     ],
+     "name_ar": "ورا الشلال",
+     "steps_ar": "خذ الدجاجة اللي قرب الجسر وطِر لتحت للمكان الكبير اللي على حافة النهر. امشِ مع النهر لين الشلال الكبير واطلع الطريق اللي وراه."
+    }
+   ]
+  },
+  {
+   "id": "GerudoFortress",
+   "name": "Gerudo's Fortress",
+   "ar": "قلعة الجيرودو",
+   "kind": "field",
+   "visit": "3d07b702",
+   "locs": [
+    "GerudoFortress"
+   ],
+   "items": [
+    {
+     "id": "gs89",
+     "cat": "gs",
+     "name": "Red-curtain entrance wall",
+     "era": "Adult",
+     "steps": "Once the Gerudo are on your side, find the high entrance with the red cloth hanging over it. At night, the spider is on the high wall right of that door.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9362225887419425752"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "جدار المدخل أبو الستارة الحمرا",
+     "steps_ar": "بعد ما تصير الجيرودو معك، دوّر المدخل العالي اللي معلّق عليه قماش أحمر. بالليل العنكبوت على الجدار العالي يمين الباب."
+    },
+    {
+     "id": "gs90",
+     "cat": "gs",
+     "name": "Archery range target",
+     "era": "Adult",
+     "steps": "At night, ride Epona into the horseback archery course and go to its far end. Look behind the big target high in the air.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13037049463363052038"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "هدف ميدان الرماية",
+     "steps_ar": "بالليل اركب إيبونا وادخل ميدان الرماية على الخيل وروح لآخره. شوف ورا الهدف الكبير اللي فوق."
+    },
+    {
+     "id": "poh34",
+     "cat": "poh",
+     "name": "Rooftop chest",
+     "era": "Adult",
+     "steps": "From the fortress rooftops, climb the crumbling slope up to the highest roofs, then walk back the way you came until you reach a gap you can't cross. Play the Scarecrow's Song to call Pierre and Longshot to him. The chest is just to the left. Joining the Gerudo first makes this much easier.",
+     "src": [
+      {
+       "t": "h",
+       "v": "689cebe8"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "صندوق السطح",
+     "steps_ar": "من سطوح القلعة، اطلع المنحدر المتهالك لأعلى السطوح، بعدين ارجع باتجاه اللي جيت منه لين توصل فراغ ما تقدر تعبره. شغّل أغنية الفزاعة عشان يطلع بيير واستخدم عليه الخطّاف الطويل. الصندوق على اليسار على طول. إذا انضميت للجيرودو أول تصير أسهل بكثير."
+    },
+    {
+     "id": "poh35",
+     "cat": "poh",
+     "name": "Horseback archery",
+     "era": "Adult",
+     "steps": "Ride Epona on the horseback archery course next to the fortress (the Gerudo by its gate runs the game). Shoot the pots and big targets and score over 750 points.",
+     "src": [
+      {
+       "t": "h",
+       "v": "3f43245b"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.1"
+       ]
+      },
+      {
+       "any": [
+        "items.10"
+       ]
+      },
+      {
+       "any": [
+        "upgrades.18"
+       ]
+      }
+     ],
+     "name_ar": "الرماية على الخيل",
+     "steps_ar": "اركب إيبونا في ميدان الرماية على الخيل اللي جنب القلعة (الجيرودو اللي عند بوابته هي اللي تشغّل اللعبة). اضرب الجرار والأهداف الكبيرة وجيب أكثر من 750 نقطة."
+    }
+   ]
+  },
+  {
+   "id": "HauntedWasteland",
+   "name": "Haunted Wasteland",
+   "ar": "الصحراء المسكونة",
+   "kind": "field",
+   "visit": null,
+   "locs": [
+    "HauntedWasteland"
+   ],
+   "items": [
+    {
+     "id": "gs91",
+     "cat": "gs",
+     "name": "Ruin chamber",
+     "era": "Adult",
+     "steps": "Cross the quicksand and follow the markers to the shelter ruin in the desert. Climb down the ladder away from the sand to a small chamber with the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "14910672274965350769"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "غرفة الأطلال",
+     "steps_ar": "اعبر الرمال المتحركة وامشِ مع العلامات لين الملجأ المهدوم في الصحراء. انزل السلّم بعيد عن الرمل لغرفة صغيرة فيها العنكبوت."
+    }
+   ]
+  },
+  {
+   "id": "DesertColossus",
+   "name": "Desert Colossus",
+   "ar": "تمثال الصحراء",
+   "kind": "field",
+   "visit": "607d9fe6",
+   "locs": [
+    "DesertColossus"
+   ],
+   "items": [
+    {
+     "id": "gs92",
+     "cat": "gs",
+     "name": "Northern cliffs, Guays",
+     "era": "Adult",
+     "steps": "Play the Sun's Song to make it night, then check the cliffs where the Guays (crows) gather. The spider is on the wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15057756765324812936"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "منحدرات الغربان",
+     "steps_ar": "شغّل أغنية الشمس عشان يصير ليل، وشوف المنحدرات اللي تتجمع فيها الغربان (الغربان). العنكبوت على الجدار."
+    },
+    {
+     "id": "gs93",
+     "cat": "gs",
+     "name": "Soft soil at the entrance",
+     "era": "Child",
+     "steps": "After Sheik teaches the warp song, come back as a child with a bottled Bug and release it on the soft soil by the temple entrance. Plant Magic Beans there too, for a later spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "234735562946824289"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "التربة اللينة عند المدخل",
+     "steps_ar": "بعد ما يعلمك شيك أغنية الانتقال، ارجع وأنت صغير ومعك حشرة في قنينة وطلّعها على التربة اللينة جنب مدخل المعبد. ازرع الفاصوليا السحرية هناك بعد، عشان عنكبوت ثاني بعدين."
+    },
+    {
+     "id": "gs97",
+     "cat": "gs",
+     "name": "Plateau by the bean plant",
+     "era": "Adult",
+     "steps": "As a child, plant Magic Beans in the soft soil by the temple entrance. As an adult at night, ride the floating plant to the raised plateau it carries you to; the spider hides there.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11160993739666517210"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      }
+     ],
+     "night": true,
+     "name_ar": "الهضبة جنب نبتة الفاصوليا",
+     "steps_ar": "وأنت صغير ازرع الفاصوليا السحرية في التربة اللينة جنب مدخل المعبد. وأنت كبير بالليل، اركب النبتة الطايرة للهضبة المرتفعة اللي توديك لها؛ العنكبوت مستخبي هناك."
+    },
+    {
+     "id": "poh36",
+     "cat": "poh",
+     "name": "Stone arch (bean ride)",
+     "era": "Adult",
+     "steps": "After Sheik teaches you the Requiem of Spirit, warp to the Colossus as a child and plant a Magic Bean in the soft soil. As an adult, ride the flower platform over the stone arch that holds the Piece of Heart.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10592092054086534681"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.9"
+       ]
+      },
+      {
+       "any": [
+        "songs.9"
+       ]
+      }
+     ],
+     "name_ar": "القوس الصخري (نبتة الفاصوليا)",
+     "steps_ar": "بعد ما يعلمك شيك أغنية ريكويم الروح، انتقل للتمثال وأنت صغير وازرع الفاصوليا السحرية في التربة اللينة. وأنت كبير اركب منصة الزهرة فوق القوس الصخري اللي عليه قطعة القلب."
+    }
+   ]
+  },
+  {
+   "id": "DekuTree",
+   "name": "Inside the Deku Tree",
+   "ar": "شجرة ديكو",
+   "kind": "dungeon",
+   "visit": "94493c6f",
+   "locs": [
+    "DekuTree",
+    "InsideTheDekuTree"
+   ],
+   "items": [
+    {
+     "id": "gs1",
+     "cat": "gs",
+     "name": "Compass room, third floor",
+     "era": "Child",
+     "steps": "On the top floor, in the room with the Compass, step on the small switch to raise the platforms. Stay to the left of the middle platform, kill the Skulltula guarding the high ledge, and jump up. The spider sits on the wall there.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13609975487234437568"
+      }
+     ],
+     "name_ar": "غرفة البوصلة، الدور الثالث",
+     "steps_ar": "في الدور الأعلى بغرفة البوصلة، دوس الزر الصغير عشان ترتفع المنصات. خلك يسار المنصة اللي بالنص، اقتل السكولتولا اللي يحرس الحافة العالية واقفز. العنكبوت على الجدار هناك."
+    },
+    {
+     "id": "gs2",
+     "cat": "gs",
+     "name": "Basement pool, vine wall",
+     "era": "Child",
+     "steps": "Break the web in the middle of the top room and drop to the basement. After you swim out of the pool, turn around: a spider sits by the big vine wall. Shoot it, then climb up for the token.",
+     "src": [
+      {
+       "t": "k",
+       "v": "16101480770659370603"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.4"
+       ]
+      }
+     ],
+     "name_ar": "بركة القبو، جدار النباتات",
+     "steps_ar": "اكسر الشبكة اللي بنص الغرفة العلوية وانزل للقبو. بعد ما تطلع من البركة لف وراك: فيه عنكبوت جنب جدار النباتات الكبير. اضربه وبعدين اطلع وخذ التوكن."
+    },
+    {
+     "id": "gs3",
+     "cat": "gs",
+     "name": "Basement pool, north grate",
+     "era": "Child",
+     "steps": "In the same basement, look at the grate on the far side of the water divider. Shoot the spider on it from a distance, then jump over to the grate.",
+     "src": [
+      {
+       "t": "k",
+       "v": "18075358844331090388"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.4"
+       ]
+      }
+     ],
+     "name_ar": "بركة القبو، الشبك البعيد",
+     "steps_ar": "في نفس القبو، شوف الشبك اللي على الجهة البعيدة من الحاجز المائي. اضرب العنكبوت من بعيد وبعدين اقفز للشبك."
+    },
+    {
+     "id": "gs4",
+     "cat": "gs",
+     "name": "Basement vines, northwest room",
+     "era": "Child",
+     "steps": "On the lower basement level, take the passage beside the web-covered hole that leads to the boss. In the room where three Gohma Larvae drop, light a Deku Stick on the torch and burn the web in the top corner. Beat the Deku Baba and Skulltula beyond, shoot the spider high on the back vines, then climb up.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17501688996789643983"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.4"
+       ]
+      },
+      {
+       "any": [
+        "items.2"
+       ]
+      }
+     ],
+     "name_ar": "نباتات القبو، غرفة يرقات غوما",
+     "steps_ar": "في الدور السفلي من القبو، خذ الممر اللي جنب الحفرة المغطاة بشبكة (حفرة الزعيم). في الغرفة اللي ينزل فيها ثلاث يرقات غوما، ولّع عصا ديكو من الشعلة وأحرق الشبكة اللي في الزاوية العلوية. اقتل الديكو بابا والسكولتولا ورا، اضرب العنكبوت فوق على النباتات واطلع."
+    },
+    {
+     "id": "hc.DekuTree",
+     "cat": "hc",
+     "name": "Gohma (Heart Container)",
+     "era": "Child",
+     "steps": "Defeat Gohma, the boss of Inside the Deku Tree, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "110b83ec"
+      },
+      {
+       "t": "h",
+       "v": "cbd1e58c"
+      }
+     ],
+     "name_ar": "غوما (حاوية قلب)",
+     "steps_ar": "اهزم غوما زعيمة شجرة ديكو وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "DodongosCavern",
+   "name": "Dodongo's Cavern",
+   "ar": "كهف دودونغو",
+   "kind": "dungeon",
+   "visit": "f40f022c",
+   "locs": [
+    "DodongoCavern",
+    "DodongosCavern"
+   ],
+   "items": [
+    {
+     "id": "gs20",
+     "cat": "gs",
+     "name": "Cracked wall in the east hallway",
+     "era": "Either",
+     "steps": "In the big entrance hall with the skull, take the first hallway on your right. Past where three Baby Dodongos appear, blow open the cracked wall with a bomb or a lured Dodongo. The spider is behind it, with a few Keese.",
+     "src": [
+      {
+       "t": "k",
+       "v": "1171854281537584829"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.0",
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "جدار متشقق في أول ممر يمين",
+     "steps_ar": "في صالة المدخل الكبيرة اللي فيها الجمجمة، خذ أول ممر على يمينك. بعد المكان اللي يطلع فيه ثلاث صغار الدودونغو، فجّر الجدار المتشقق بقنبلة أو بالدودونغو. العنكبوت وراه مع كم خفافيش الكيس."
+    },
+    {
+     "id": "gs21",
+     "cat": "gs",
+     "name": "Mesh wall above the staircase",
+     "era": "Either",
+     "steps": "In the entrance hall, walk to the far end to the raised staircase ringed by Bomb Flowers. Put the loose Bomb Flower in the gap so they all blow up and the staircase drops. Climb to the upper level, turn around to the mesh wall, shoot the spider and climb up.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8470399761714006011"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.0"
+       ]
+      },
+      {
+       "any": [
+        "items.4"
+       ]
+      }
+     ],
+     "name_ar": "الجدار الشبكي فوق الدرج",
+     "steps_ar": "في صالة المدخل، امشِ لآخرها للدرج المرتفع اللي حوله زهور القنابل. حط زهرة القنبلة اللي لحالها في الفراغ عشان تنفجر كلها وينزل الدرج. اطلع للمستوى العلوي، لف وراك للجدار الشبكي، اضرب العنكبوت واطلع."
+    },
+    {
+     "id": "gs22",
+     "cat": "gs",
+     "name": "Second floor, northeast cracked wall",
+     "era": "Either",
+     "steps": "On the second floor of the entrance hall, bomb the cracked wall in the far right corner next to the skull. Cross the room with two Dodongos around a rock; the spider is on the other side.",
+     "src": [
+      {
+       "t": "k",
+       "v": "4565265801822094851"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "الدور الثاني، الجدار المتشقق جنب الجمجمة",
+     "steps_ar": "في الدور الثاني من صالة المدخل، فجّر الجدار المتشقق في الزاوية البعيدة على اليمين جنب الجمجمة. اعبر الغرفة اللي فيها اثنين الدودونغو حول صخرة؛ العنكبوت في الجهة الثانية."
+    },
+    {
+     "id": "gs23",
+     "cat": "gs",
+     "name": "Armos behind the push block",
+     "era": "Either",
+     "steps": "After opening the skull passage with bombs, push the block down in the pathway room and shove it to the far wall. Bomb the cracked wall on the ledge above it and climb in. The spider hides behind an Armos near the back, among Baby Dodongos.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13690401647626643497"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "أرموس ورا الصخرة اللي تندف",
+     "steps_ar": "بعد ما تفتح ممر الجمجمة بالقنابل، ادفّ الصخرة لتحت في غرفة الممر لين آخر الجدار. فجّر الجدار المتشقق اللي على الحافة فوقها وادخل. العنكبوت مستخبي ورا الأرموس قرب الآخر بين صغار الدودونغو."
+    },
+    {
+     "id": "gs56",
+     "cat": "gs",
+     "name": "Adult wind ledge",
+     "era": "Adult",
+     "steps": "As an adult, go to the first hallway on the right of the entrance hall, where the Baby Dodongos are. Play the Scarecrow's Song near the high ledge with the gust of wind, then Hookshot to Pierre.",
+     "src": [
+      {
+       "t": "k",
+       "v": "960362013021648957"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "حافة الريح (كبير)",
+     "steps_ar": "وأنت كبير روح لأول ممر على يمين صالة المدخل، اللي فيه صغار الدودونغو. شغّل أغنية الفزاعة جنب الحافة العالية اللي فيها ريح، واستخدم الخطّاف على بيير."
+    },
+    {
+     "id": "hc.DodongosCavern",
+     "cat": "hc",
+     "name": "King Dodongo (Heart Container)",
+     "era": "Child",
+     "steps": "Defeat King Dodongo, the boss of Dodongo's Cavern, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "8908d6ad"
+      },
+      {
+       "t": "h",
+       "v": "7d69ad47"
+      }
+     ],
+     "name_ar": "الملك دودونغو (حاوية قلب)",
+     "steps_ar": "اهزم الملك دودونغو زعيم كهف دودونغو وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "JabuJabu",
+   "name": "Jabu-Jabu's Belly",
+   "ar": "بطن جابو جابو",
+   "kind": "dungeon",
+   "visit": "9e5ca01c",
+   "locs": [
+    "InsideJabuJabuBelly",
+    "JabuJabu"
+   ],
+   "items": [
+    {
+     "id": "gs33",
+     "cat": "gs",
+     "name": "Raised water room, west ledge",
+     "era": "Child",
+     "steps": "Follow Ruto down to B1 and on to the sunken room. Step on the glowing switch to raise the water, then climb the vines to the ledge above, where the spider sits near some pots.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11513774157335944149"
+      }
+     ],
+     "name_ar": "غرفة الماي اللي يرتفع، الحافة العالية",
+     "steps_ar": "امشِ ورا روتو للقبو 1 لين الغرفة الغارقة. دوس الزر اللي يلمع عشان يرتفع الماي، واطلع النباتات للحافة اللي فوق؛ العنكبوت جنب كم جرة."
+    },
+    {
+     "id": "gs34",
+     "cat": "gs",
+     "name": "Pit room, north wall",
+     "era": "Child",
+     "steps": "Clear the tentacles blocking the two-level pit room and drop into the blue pit onto a high ledge. Look at the far wall past the Biri to see the spider, and use the Boomerang to kill it and fetch the token.",
+     "src": [
+      {
+       "t": "k",
+       "v": "13852835165271311030"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "غرفة الحفرة، الجدار البعيد",
+     "steps_ar": "نظّف المجسات اللي سادة غرفة الحفرة اللي بدورين وانزل في الحفرة الزرقا لحافة عالية. شوف الجدار البعيد قدامك بعد البيري تلقى العنكبوت، واستخدم البومرانغ تقتله وتجيب التوكن."
+    },
+    {
+     "id": "gs35",
+     "cat": "gs",
+     "name": "Northwest corridor ceiling",
+     "era": "Child",
+     "steps": "From the same high ledge, walk down the hallway to the room at its end. A spider clings to the hallway ceiling; the Boomerang knocks it down and grabs the token.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11283202900158580106"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "سقف الممر",
+     "steps_ar": "من نفس الحافة العالية، امشِ في الممر لين الغرفة اللي في آخره. فيه عنكبوت لازق في سقف الممر؛ البومرانغ يطيحه ويجيب التوكن."
+    },
+    {
+     "id": "gs36",
+     "cat": "gs",
+     "name": "Tall pillar before the boss",
+     "era": "Child",
+     "steps": "In the last big room before the boss, go behind the tall pillar and look up its vines. Hit the spider with the Boomerang or Slingshot.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15983944335296207002"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "العمود الطويل قبل الزعيم",
+     "steps_ar": "في آخر غرفة كبيرة قبل الزعيم، روح ورا العمود الطويل وشوف فوق على نباتاته. اضرب العنكبوت بالبومرانغ أو المقلاع."
+    },
+    {
+     "id": "hc.JabuJabu",
+     "cat": "hc",
+     "name": "Barinade (Heart Container)",
+     "era": "Child",
+     "steps": "Defeat Barinade, the boss of Jabu-Jabu's Belly, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "eec383f5"
+      },
+      {
+       "t": "h",
+       "v": "b8e3bf45"
+      }
+     ],
+     "name_ar": "بارينيد (حاوية قلب)",
+     "steps_ar": "اهزم بارينيد زعيم بطن جابو جابو وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "ForestTemple",
+   "name": "Forest Temple",
+   "ar": "معبد الغابة",
+   "kind": "dungeon",
+   "visit": "9678793b",
+   "locs": [
+    "ForestTemple"
+   ],
+   "items": [
+    {
+     "id": "gs49",
+     "cat": "gs",
+     "name": "Entrance tree top",
+     "era": "Adult",
+     "steps": "In the entrance room, climb the big vine tree for the key. At the very top, turn around and Hookshot the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11081821111317815057"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "أعلى شجرة المدخل",
+     "steps_ar": "في غرفة المدخل اطلع شجرة النباتات الكبيرة عشان المفتاح. في أعلى شي لف وراك واستخدم الخطّاف على العنكبوت."
+    },
+    {
+     "id": "gs50",
+     "cat": "gs",
+     "name": "Main foyer, blue window",
+     "era": "Adult",
+     "steps": "In the main hall where the Poe Sisters vanish, take the stairs up toward the door with the green window. At the top, turn right to the blue window and Hookshot the spider on the wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "17612196129225973969"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "الصالة الرئيسية، الشباك الأزرق",
+     "steps_ar": "في الصالة الرئيسية اللي تختفي فيها أخوات بو، اطلع الدرج للباب اللي شباكه أخضر. فوق لف يمين للشباك الأزرق واستخدم الخطّاف على العنكبوت اللي على الجدار."
+    },
+    {
+     "id": "gs51",
+     "cat": "gs",
+     "name": "Northwest balcony ledge",
+     "era": "Adult",
+     "steps": "Once you have the Bow, go back up to the third floor and shoot the eye over the door so the red hallway untwists. After taking the Boss Key, drop to the first floor and step onto the balcony overlooking the courtyard on the left side of the temple. Shuffle along the ledge past a door and around the corner.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10970805784153267902"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "items.10"
+       ]
+      }
+     ],
+     "name_ar": "حافة البلكونة فوق الساحة اليسار",
+     "steps_ar": "لما يصير معك القوس، ارجع للدور الثالث واضرب العين اللي فوق الباب عشان الممر الأحمر يرجع مستقيم. بعد ما تاخذ مفتاح الزعيم، انزل للدور الأول واطلع على البلكونة اللي تطل على الساحة اللي على يسار المعبد. امشِ على الحافة بعد الباب ولف مع الزاوية."
+    },
+    {
+     "id": "gs52",
+     "cat": "gs",
+     "name": "Northeast courtyard high ledge",
+     "era": "Adult",
+     "steps": "With enough keys, go down the red hallway and through the Poe rooms to the blue hallway, and shoot the eye to twist it. Drop to the ledge over the courtyard with the well (right side of the temple), play the Scarecrow's Song near the gusts of wind, and Hookshot to Pierre to reach the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "2014780391754316762"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "items.10"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "الحافة العالية فوق ساحة البئر",
+     "steps_ar": "إذا معك مفاتيح كفاية، انزل الممر الأحمر ومر بغرف شبح بو لين الممر الأزرق، واضرب العين عشان يلتف. انزل للحافة اللي فوق الساحة اللي فيها البئر (يمين المعبد)، شغّل أغنية الفزاعة جنب الريح، واستخدم الخطّاف على بيير عشان توصل العنكبوت."
+    },
+    {
+     "id": "gs53",
+     "cat": "gs",
+     "name": "Basement south alcove",
+     "era": "Adult",
+     "steps": "After beating all four Poe Sisters and riding the lift down, turn around as soon as you reach B1 to the small room behind you. Kill the Skulltula and look right. If the way is blocked, keep turning the walls with the handles.",
+     "src": [
+      {
+       "t": "k",
+       "v": "3072474196008424241"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "items.10"
+       ]
+      }
+     ],
+     "name_ar": "الغرفة الصغيرة في القبو",
+     "steps_ar": "بعد ما تهزم الأربع أخوات بو وتنزل بالمصعد، لف وراك أول ما توصل القبو 1 للغرفة الصغيرة اللي وراك. اقتل السكولتولا وشوف يمين. إذا الطريق مسدود، حرّك الجدران بالمماسك."
+    },
+    {
+     "id": "ft19",
+     "cat": "ft",
+     "name": "3F blue room",
+     "era": "Adult",
+     "steps": "On the right side of 3F, in the blue shifting room. You can only read it after shifting the room and opening the gap in the floor. Play Sun's Song here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "d793961b"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.4"
+       ]
+      }
+     ],
+     "name_ar": "الغرفة الزرقا بالدور الثالث",
+     "steps_ar": "على يمين الدور الثالث، في الغرفة الزرقا اللي تتحرك. ما تقدر تقراها إلا بعد ما تحرك الغرفة وتنفتح الفتحة اللي في الأرض. شغّل أغنية الشمس هنا وتتعالج كامل."
+    },
+    {
+     "id": "hc.ForestTemple",
+     "cat": "hc",
+     "name": "Phantom Ganon (Heart Container)",
+     "era": "Adult",
+     "steps": "Defeat Phantom Ganon, the boss of Forest Temple, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "fcd8d653"
+      },
+      {
+       "t": "h",
+       "v": "692d57cb"
+      }
+     ],
+     "name_ar": "شبح غانون (حاوية قلب)",
+     "steps_ar": "اهزم شبح غانون زعيم معبد الغابة وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "FireTemple",
+   "name": "Fire Temple",
+   "ar": "معبد النار",
+   "kind": "dungeon",
+   "visit": "0dc6bad4",
+   "locs": [
+    "FireTemple"
+   ],
+   "items": [
+    {
+     "id": "gs59",
+     "cat": "gs",
+     "name": "Northeast block room",
+     "era": "Adult",
+     "steps": "From the entrance hall, take the lava room on the right with the moving platforms, up to its highest ledge. Use the Song of Time to move the blue block, go through the door, beat the Flying Tiles and Like Like, and find the spider at the back.",
+     "src": [
+      {
+       "t": "k",
+       "v": "6789992996625105554"
+      }
+     ],
+     "name_ar": "غرفة البلوك فوق غرفة الحمم",
+     "steps_ar": "من صالة المدخل، خذ غرفة الحمم اللي على اليمين وفيها منصات تتحرك، لين أعلى حافة فيها. استخدم أغنية الزمن عشان تحرك البلوك الأزرق، ادخل الباب، اهزم البلاط الطاير واللايك لايك، وتلقى العنكبوت ورا."
+    },
+    {
+     "id": "gs60",
+     "cat": "gs",
+     "name": "Boulder room cracked wall",
+     "era": "Adult",
+     "steps": "After raising the lift to 3F, go into the room with the rolling boulders. Hop down and follow the walls until you find a cracked wall; bomb it.",
+     "src": [
+      {
+       "t": "k",
+       "v": "12751796212121957464"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "الجدار المتشقق في غرفة الصخور",
+     "steps_ar": "بعد ما ترفع المصعد للدور الثالث، ادخل الغرفة اللي فيها صخور تتدحرج. انزل وامشِ مع الجدران لين تلقى جدار متشقق؛ فجّره."
+    },
+    {
+     "id": "gs61",
+     "cat": "gs",
+     "name": "Boulder room, 4F mesh wall",
+     "era": "Adult",
+     "steps": "After exploring both sides of the 3F boulder room and racing the wall of fire to the high ledge, jump to the first platform and play the Scarecrow's Song at the gust of wind. Hookshot to Pierre, then to a platform up to 4F. The spider is on the mesh wall by the 5F door.",
+     "src": [
+      {
+       "t": "k",
+       "v": "9172014785497046138"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "غرفة الصخور، الجدار الشبكي بالدور الرابع",
+     "steps_ar": "بعد ما تستكشف جهتين غرفة الصخور في الدور الثالث وتسابق جدار النار للحافة العالية، اقفز لأول منصة وشغّل أغنية الفزاعة عند الريح. استخدم الخطّاف على بيير، بعدين على منصة للدور الرابع. العنكبوت على الجدار الشبكي جنب باب الدور الخامس."
+    },
+    {
+     "id": "gs62",
+     "cat": "gs",
+     "name": "Circular room lava pit",
+     "era": "Adult",
+     "steps": "Take the same Scarecrow and Hookshot route from the boulder room, but go up to 5F. In the large circular room, look along the inner wall over the lava pit.",
+     "src": [
+      {
+       "t": "k",
+       "v": "5556173334779815044"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "حفرة الحمم في الغرفة الدائرية",
+     "steps_ar": "خذ نفس طريق الفزاعة والخطّاف من غرفة الصخور، بس اطلع للدور الخامس. في الغرفة الدائرية الكبيرة، شوف مع الجدار الداخلي فوق حفرة الحمم."
+    },
+    {
+     "id": "gs63",
+     "cat": "gs",
+     "name": "Hammer room boulder",
+     "era": "Adult",
+     "steps": "With the Megaton Hammer, go back to the entrance hall and knock aside the statue at the lower right door. In the room with Flying Tiles and a Like Like, smash the big rock at the back.",
+     "src": [
+      {
+       "t": "k",
+       "v": "14706322686481615109"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.13"
+       ]
+      }
+     ],
+     "name_ar": "صخرة غرفة المطرقة",
+     "steps_ar": "بمطرقة الميغاطن، ارجع لصالة المدخل وطيّح التمثال اللي عند الباب اليمين تحت. في الغرفة اللي فيها البلاط الطاير و اللايك لايك، كسّر الصخرة الكبيرة اللي ورا."
+    },
+    {
+     "id": "ft20",
+     "cat": "ft",
+     "name": "Megaton Hammer room",
+     "era": "Adult",
+     "steps": "In the Megaton Hammer room, on the wall facing the hammer's chest. Play Sun's Song here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "c8a48a0c"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.4"
+       ]
+      }
+     ],
+     "name_ar": "غرفة مطرقة الميغاطن",
+     "steps_ar": "في غرفة مطرقة الميغاطن، على الجدار اللي مقابل صندوق المطرقة. شغّل أغنية الشمس هنا وتتعالج كامل."
+    },
+    {
+     "id": "hc.FireTemple",
+     "cat": "hc",
+     "name": "Volvagia (Heart Container)",
+     "era": "Adult",
+     "steps": "Defeat Volvagia, the boss of Fire Temple, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "103a0dc7"
+      },
+      {
+       "t": "h",
+       "v": "5ce254a6"
+      }
+     ],
+     "name_ar": "فولفاجيا (حاوية قلب)",
+     "steps_ar": "اهزم فولفاجيا زعيم معبد النار وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "IceCavern",
+   "name": "Ice Cavern",
+   "ar": "كهف الجليد",
+   "kind": "dungeon",
+   "visit": "a9bbc0e4",
+   "locs": [
+    "IceCavern"
+   ],
+   "items": [
+    {
+     "id": "gs69",
+     "cat": "gs",
+     "name": "Scythe room south wall",
+     "era": "Adult",
+     "steps": "In the first big room with spinning blades and silver Rupees, avoid the blades, turn back toward the door you came in from and look up at that wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7165255787572043804"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "جدار الباب في غرفة المناجل",
+     "steps_ar": "في أول غرفة كبيرة فيها مناجل تدور و الروبيات فضية، تفادى الشفرات ولف وراك للباب اللي دخلت منه وشوف فوق على جداره."
+    },
+    {
+     "id": "gs70",
+     "cat": "gs",
+     "name": "Behind the Compass chest pillar",
+     "era": "Adult",
+     "steps": "After the first Blue Fire, melt the red ice above the blade room with a bottle. Walk to the end of that hallway and look behind the icy pillar next to the Compass chest.",
+     "src": [
+      {
+       "t": "k",
+       "v": "1612219105489330028"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "ورا عمود صندوق البوصلة",
+     "steps_ar": "بعد أول النار الزرقا، ذوّب الثلج الأحمر اللي فوق غرفة المناجل بالقنينة. امشِ لآخر الممر وشوف ورا العمود الثلجي جنب صندوق البوصلة."
+    },
+    {
+     "id": "gs71",
+     "cat": "gs",
+     "name": "Block puzzle low wall",
+     "era": "Adult",
+     "steps": "In the blade room, melt the red ice blocking the other path (not the one to the Compass). After the sliding-block area, cross to the icy ground and look back for the spider on a low wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "14822647495538506998"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.11"
+       ]
+      },
+      {
+       "any": [
+        "items.17"
+       ]
+      }
+     ],
+     "name_ar": "الجدار الواطي في لغز البلوك",
+     "steps_ar": "في غرفة المناجل، ذوّب الثلج الأحمر اللي سادد الطريق الثاني (مو طريق البوصلة). بعد منطقة البلوك اللي يتزحلق، اعبر للأرض الثلجية ولف وراك تلقى العنكبوت على جدار واطي."
+    },
+    {
+     "id": "ft18",
+     "cat": "ft",
+     "name": "Compass room",
+     "era": "Adult",
+     "steps": "On a wall in the room with the Compass and a Gold Skulltula. Play Sun's Song here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "304c49c8"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.4"
+       ]
+      }
+     ],
+     "name_ar": "غرفة البوصلة",
+     "steps_ar": "على جدار في الغرفة اللي فيها البوصلة و السكولتولا الذهبية. شغّل أغنية الشمس هنا وتتعالج كامل."
+    }
+   ]
+  },
+  {
+   "id": "WaterTemple",
+   "name": "Water Temple",
+   "ar": "معبد الماء",
+   "kind": "dungeon",
+   "visit": "463a8f77",
+   "locs": [
+    "WaterTemple"
+   ],
+   "items": [
+    {
+     "id": "gs73",
+     "cat": "gs",
+     "name": "B1 hatch above the pillar room",
+     "era": "Adult",
+     "steps": "With the water raised to 2F, go to the bottom of the pillar room and into B1. Hit the green switch with the Hookshot to open a hatch and climb up to the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "16157272130665282352"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.7"
+       ]
+      },
+      {
+       "any": [
+        "items.11"
+       ]
+      }
+     ],
+     "name_ar": "فتحة القبو 1 فوق غرفة العمود",
+     "steps_ar": "والماي مرفوع للدور الثاني، روح لأسفل غرفة العمود وادخل القبو 1. اضرب الزر الأخضر بالخطّاف عشان تنفتح فتحة واطلع للعنكبوت."
+    },
+    {
+     "id": "gs74",
+     "cat": "gs",
+     "name": "East room cracked wall",
+     "era": "Adult",
+     "steps": "With the water at 2F, go back to the room on 1F where you met Ruto and float up to the ledge with a cracked wall. Bomb it and find the spider in the corner of the room.",
+     "src": [
+      {
+       "t": "k",
+       "v": "4399424945134189769"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.7"
+       ]
+      },
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "الجدار المتشقق في غرفة روتو",
+     "steps_ar": "والماي على الدور الثاني، ارجع للغرفة في الدور الأول اللي قابلت فيها روتو واطفُ لين الحافة اللي فيها جدار متشقق. فجّره وتلقى العنكبوت في زاوية الغرفة."
+    },
+    {
+     "id": "gs75",
+     "cat": "gs",
+     "name": "River cavern outcrop",
+     "era": "Adult",
+     "steps": "With the Longshot, drop into the long river cave on 2F. At the first big bend in the river, turn around and Longshot up to the rocky outcrop while underwater.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15506432733081566465"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.7"
+       ]
+      },
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "name_ar": "صخرة بارزة في مغارة النهر",
+     "steps_ar": "بالخطّاف الطويل، انزل لمغارة النهر الطويلة في الدور الثاني. عند أول لفة كبيرة في النهر، لف وراك واستخدم الخطّاف الطويل للصخرة البارزة وأنت تحت الماي."
+    },
+    {
+     "id": "gs76",
+     "cat": "gs",
+     "name": "Pillar room ceiling",
+     "era": "Adult",
+     "steps": "With the water at the first level, raise it one floor from the pillar room base. Use the Hookshot targets to the top of the room and Longshot the spider on the ceiling.",
+     "src": [
+      {
+       "t": "k",
+       "v": "11571778270592589517"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.7"
+       ]
+      },
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "name_ar": "سقف غرفة العمود",
+     "steps_ar": "والماي على أول مستوى، ارفعه دور واحد من قاعدة غرفة العمود. استخدم أهداف الخطّاف لين أعلى الغرفة واستخدم الخطّاف الطويل على العنكبوت اللي في السقف."
+    },
+    {
+     "id": "gs77",
+     "cat": "gs",
+     "name": "Boulder passage before the Boss Key",
+     "era": "Adult",
+     "steps": "On 1F, go through the rooms behind the central tower to the flooded passages where boulders roll. Look up at the middle pit opposite the waterfall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "186694424287048567"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "equip.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.7"
+       ]
+      },
+      {
+       "any": [
+        "items.12"
+       ]
+      }
+     ],
+     "name_ar": "ممر الصخور قبل مفتاح الزعيم",
+     "steps_ar": "في الدور الأول، خذ الغرف اللي ورا البرج اللي بالنص لين الممرات الغارقة اللي تتدحرج فيها الصخور. شوف فوق على الحفرة اللي بالنص مقابل الشلال."
+    },
+    {
+     "id": "ft21",
+     "cat": "ft",
+     "name": "West room of 1F",
+     "era": "Adult",
+     "steps": "In the 1F room with the sinking platforms that lead down to the Dark Link fight. Jump to the lone platform against the wall. Play Sun's Song here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "43006350"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.4"
+       ]
+      }
+     ],
+     "name_ar": "غرفة المنصات النازلة بالدور الأول",
+     "steps_ar": "في غرفة الدور الأول اللي فيها المنصات اللي تنزل لقتال لينك المظلم. نط للمنصة اللي لحالها على الجدار. شغّل أغنية الشمس هنا وتتعالج كامل."
+    },
+    {
+     "id": "hc.WaterTemple",
+     "cat": "hc",
+     "name": "Morpha (Heart Container)",
+     "era": "Adult",
+     "steps": "Defeat Morpha, the boss of Water Temple, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "cf64e780"
+      },
+      {
+       "t": "h",
+       "v": "0151a68f"
+      }
+     ],
+     "name_ar": "مورفا (حاوية قلب)",
+     "steps_ar": "اهزم مورفا زعيم معبد الماء وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "BottomOfTheWell",
+   "name": "Bottom of the Well",
+   "ar": "قاع البئر",
+   "kind": "dungeon",
+   "visit": "b43c6db8",
+   "locs": [
+    "BottomOfTheWell"
+   ],
+   "items": [
+    {
+     "id": "gs79",
+     "cat": "gs",
+     "name": "Like Like room, northeast",
+     "era": "Child",
+     "steps": "In the big square walkway, go to the far right corner and use the Lens of Truth to avoid the hidden hole. Cross the invisible pits to the Like Like room; the spider is on the wall behind it.",
+     "src": [
+      {
+       "t": "k",
+       "v": "3889761319471426870"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      },
+      {
+       "any": [
+        "items.8"
+       ]
+      }
+     ],
+     "name_ar": "غرفة اللايك لايك",
+     "steps_ar": "في الممشى المربع الكبير، روح للزاوية البعيدة على اليمين واستخدم عدسة الحقيقة عشان تتفادى الحفرة المخفية. اعبر الحفر المخفية لغرفة اللايك لايك؛ العنكبوت على الجدار ورا."
+    },
+    {
+     "id": "gs80",
+     "cat": "gs",
+     "name": "Southeast key and central room door",
+     "era": "Child",
+     "steps": "Go to the near right corner (right of where you came in) and use the Lens to find the opening with a Small Key. Go into the central room, unlock the door on the far right, then cross the pit on the invisible walkway.",
+     "src": [
+      {
+       "t": "k",
+       "v": "12165938013608963606"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      },
+      {
+       "any": [
+        "items.8"
+       ]
+      }
+     ],
+     "name_ar": "المفتاح المخفي وباب الغرفة الوسطى",
+     "steps_ar": "روح للزاوية القريبة على اليمين (يمين المكان اللي دخلت منه) واستخدم العدسة عشان تلقى الفتحة اللي فيها مفتاح صغير. ادخل الغرفة اللي بالنص، افتح الباب اللي على اليمين بعيد، واعبر الحفرة على الممشى المخفي."
+    },
+    {
+     "id": "gs81",
+     "cat": "gs",
+     "name": "Northwest door, Deku Baba",
+     "era": "Child",
+     "steps": "With the water lowered, take the hallway on your left and dive under the pit of water. Burn the coffins in the next room for a Small Key, then unlock the far-left door of the central room. A Deku Baba guards the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "7460556442932201772"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      },
+      {
+       "any": [
+        "items.8"
+       ]
+      }
+     ],
+     "name_ar": "الباب البعيد يسار، ديكو بابا",
+     "steps_ar": "بعد ما ينزل الماي، خذ الممر اللي على يسارك وغُص تحت حفرة الماي. أحرق التوابيت في الغرفة الجاية عشان مفتاح صغير، وافتح الباب اللي على اليسار بعيد في الغرفة اللي بالنص. فيه الديكو بابا يحرس العنكبوت."
+    }
+   ]
+  },
+  {
+   "id": "ShadowTemple",
+   "name": "Shadow Temple",
+   "ar": "معبد الظل",
+   "kind": "dungeon",
+   "visit": "1f9a9780",
+   "locs": [
+    "ShadowTemple"
+   ],
+   "items": [
+    {
+     "id": "gs82",
+     "cat": "gs",
+     "name": "B3 invisible platforms room",
+     "era": "Adult",
+     "steps": "On B3, after the falling guillotines and a Stalfos, go left and cross the gap with the Hover Boots over invisible platforms. Beat everything in the next room with the invisible blade to unlock the far door.",
+     "src": [
+      {
+       "t": "k",
+       "v": "16933078188088206331"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.9"
+       ]
+      }
+     ],
+     "name_ar": "القبو 3، غرفة المنصات المخفية",
+     "steps_ar": "في القبو 3، بعد المقاصل اللي تطيح والستالفوس، روح يسار واعبر الفراغ بالجزمة الطايرة فوق منصات مخفية. اهزم كل شي في الغرفة الجاية اللي فيها المنجل المخفي عشان ينفتح الباب البعيد."
+    },
+    {
+     "id": "gs83",
+     "cat": "gs",
+     "name": "B3 spike trap room wall",
+     "era": "Adult",
+     "steps": "On B3, after the guillotines and Stalfos, go right to the five silver Rupees. In the next room, pull out a stone block to get past the spikes, then pull it to the other side and climb up. The spider is on the upper wall behind you.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15148554628675590606"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.9"
+       ]
+      }
+     ],
+     "name_ar": "القبو 3، جدار غرفة الأشواك",
+     "steps_ar": "في القبو 3، بعد المقاصل والستالفوس، روح يمين للخمس الروبيات الفضية. في الغرفة الجاية اسحب بلوك حجر عشان تتعدى الأشواك، بعدين اسحبه للجهة الثانية واطلع. العنكبوت على الجدار العلوي وراك."
+    },
+    {
+     "id": "gs84",
+     "cat": "gs",
+     "name": "B3 wind corridor pit",
+     "era": "Adult",
+     "steps": "Solve both silver Rupee puzzles and carry on to the hallways with the wind statues. At the Hover Boots gap, look down the pit to see the spider below, and shoot it after crossing.",
+     "src": [
+      {
+       "t": "k",
+       "v": "15564367841356014861"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.9"
+       ]
+      }
+     ],
+     "name_ar": "القبو 3، حفرة ممر الريح",
+     "steps_ar": "حل لغزين الروبيات الفضية وكمّل للممرات اللي فيها تماثيل الريح. عند فراغ الجزمة الطايرة، شوف تحت في الحفرة تلقى العنكبوت، واضربه بعد ما تعبر."
+    },
+    {
+     "id": "gs85",
+     "cat": "gs",
+     "name": "B4 cage by the ship",
+     "era": "Adult",
+     "steps": "By the docked ship on B4, climb the cage with the shortcut block. On top, play the Scarecrow's Song at the straw gust, Hookshot to Pierre, and find the spider on the nearby wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8823884712433934372"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.9"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "القبو 4، القفص جنب السفينة",
+     "steps_ar": "جنب السفينة الراسية في القبو 4، اطلع القفص اللي فيه بلوك الاختصار. فوق شغّل أغنية الفزاعة عند ريح القش، استخدم الخطّاف على بيير، وتلقى العنكبوت على الجدار القريب."
+    },
+    {
+     "id": "gs86",
+     "cat": "gs",
+     "name": "B4 spinning skulls",
+     "era": "Adult",
+     "steps": "Ride the boat to the end, then go through the invisible maze room to the last room, which has three big spinning skulls. Toss a bomb into each; one holds the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10270336409167849808"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.8"
+       ]
+      },
+      {
+       "any": [
+        "equip.9"
+       ]
+      },
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "name_ar": "القبو 4، الجماجم اللي تدور",
+     "steps_ar": "اركب السفينة لين آخرها، وامشِ في متاهة الغرفة المخفية لين آخر غرفة، اللي فيها ثلاث جماجم كبيرة تدور. ارمِ قنبلة في كل وحدة؛ وحدة فيها العنكبوت."
+    },
+    {
+     "id": "ft22",
+     "cat": "ft",
+     "name": "B3 spike crusher room",
+     "era": "Adult",
+     "steps": "On a cracked wall on B3, in the room with the huge falling spike crushers. Play the Song of Storms here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "a2c78425"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      }
+     ],
+     "name_ar": "القبو 3، غرفة الكسارات الشوكية",
+     "steps_ar": "على جدار متشقق في القبو 3، في الغرفة اللي فيها كسارات شوكية كبيرة تطيح. شغّل أغنية العواصف هنا وتتعالج كامل."
+    },
+    {
+     "id": "hc.ShadowTemple",
+     "cat": "hc",
+     "name": "Bongo Bongo (Heart Container)",
+     "era": "Adult",
+     "steps": "Defeat Bongo Bongo, the boss of Shadow Temple, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "12d63ac6"
+      },
+      {
+       "t": "h",
+       "v": "204d2063"
+      }
+     ],
+     "name_ar": "بونغو بونغو (حاوية قلب)",
+     "steps_ar": "اهزم بونغو بونغو زعيم معبد الظل وخذ حاوية القلب."
+    }
+   ]
+  },
+  {
+   "id": "SpiritTemple",
+   "name": "Spirit Temple",
+   "ar": "معبد الروح",
+   "kind": "dungeon",
+   "visit": "20e6e16d",
+   "locs": [
+    "SpiritTemple"
+   ],
+   "items": [
+    {
+     "id": "gs94",
+     "cat": "gs",
+     "name": "Mesh wall, northwest tunnel",
+     "era": "Child",
+     "steps": "As a child, crawl through the small tunnel on the left of the entrance hall (only Young Link fits) and take the door on the right. In the room with the mesh wall and Keese, the spider is on the wall.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10530233152473742636"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "الجدار الشبكي، نفق الصغير",
+     "steps_ar": "وأنت صغير ازحف في النفق الصغير اللي على يسار صالة المدخل (بس الصغير يدخله) وخذ الباب اللي يمين. في الغرفة اللي فيها الجدار الشبكي وخفافيش الكيس، العنكبوت على الجدار."
+    },
+    {
+     "id": "gs95",
+     "cat": "gs",
+     "name": "Statue room corner",
+     "era": "Child",
+     "steps": "After going up to 2F, take the path on the right to the room with the giant statue. Look in the bottom right corner by the statue's folded legs.",
+     "src": [
+      {
+       "t": "k",
+       "v": "12959656942046734931"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "زاوية غرفة التمثال",
+     "steps_ar": "بعد ما تطلع للدور الثاني، خذ الطريق اللي على اليمين لغرفة التمثال العملاق. شوف في الزاوية اليمين تحت جنب رجول التمثال المطوية."
+    },
+    {
+     "id": "gs96",
+     "cat": "gs",
+     "name": "Beamos room, colossus arms",
+     "era": "Child",
+     "steps": "On 3F in the statue room, take the path to the room with the Beamos and the beam of sunlight. Go down the hallway that leads to the statue's hands, turn around, and look up.",
+     "src": [
+      {
+       "t": "k",
+       "v": "10127391959410674946"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "items.7"
+       ]
+      }
+     ],
+     "name_ar": "غرفة البيموس، يدين التمثال",
+     "steps_ar": "في الدور الثالث بغرفة التمثال، خذ الطريق لغرفة فيها البيموس وشعاع شمس. انزل الممر اللي يوديك ليدين التمثال، لف وراك وشوف فوق."
+    },
+    {
+     "id": "gs98",
+     "cat": "gs",
+     "name": "Boulder half-pipe alcove",
+     "era": "Adult",
+     "steps": "As an adult, open the door on the right side of the entrance hall into the half-pipe room with rolling boulders. Past the blue block on the left, look in the open alcove.",
+     "src": [
+      {
+       "t": "k",
+       "v": "8120267919866495114"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.1"
+       ]
+      }
+     ],
+     "name_ar": "فتحة غرفة الصخور المنحنية",
+     "steps_ar": "وأنت كبير افتح الباب اللي على يمين صالة المدخل لغرفة المنحدر الدائري اللي تتدحرج فيها صخور. بعد البلوك الأزرق اللي يسار، شوف في الفتحة المكشوفة."
+    },
+    {
+     "id": "gs99",
+     "cat": "gs",
+     "name": "3F statue room upper corner",
+     "era": "Adult",
+     "steps": "On 3F with the big statue, walk along the left side to the top left corner with the gust of wind. Play the Scarecrow's Song and Hookshot across to the spider.",
+     "src": [
+      {
+       "t": "k",
+       "v": "5086449036385341804"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "upgrades.1"
+       ]
+      },
+      {
+       "any": [
+        "items.12"
+       ]
+      },
+      {
+       "any": [
+        "songs.12"
+       ]
+      }
+     ],
+     "name_ar": "الدور الثالث، الزاوية العلوية في غرفة التمثال",
+     "steps_ar": "في الدور الثالث عند التمثال الكبير، امشِ مع الجهة اليسار لين الزاوية العلوية اليسار اللي فيها ريح. شغّل أغنية الفزاعة واستخدم الخطّاف للعنكبوت."
+    },
+    {
+     "id": "ft23",
+     "cat": "ft",
+     "name": "Outside platform",
+     "era": "Either",
+     "steps": "Outside the temple, on the platform between the chests holding the Silver Gauntlets and the Mirror Shield. Reachable as a child or an adult. Play the Song of Storms here to be fully healed.",
+     "src": [
+      {
+       "t": "h",
+       "v": "bb7912c6"
+      }
+     ],
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      }
+     ],
+     "name_ar": "المنصة اللي برا",
+     "steps_ar": "برا المعبد، على المنصة اللي بين صندوق القفازات الفضية وصندوق درع المرآة. توصلها صغير أو كبير. شغّل أغنية العواصف هنا وتتعالج كامل."
+    },
+    {
+     "id": "hc.SpiritTemple",
+     "cat": "hc",
+     "name": "Twinrova (Heart Container)",
+     "era": "Adult",
+     "steps": "Defeat Twinrova, the boss of Spirit Temple, and take the Heart Container.",
+     "src": [
+      {
+       "t": "h",
+       "v": "e269df38"
+      },
+      {
+       "t": "h",
+       "v": "0c7a5fd0"
+      }
+     ],
+     "name_ar": "توينروفا (حاوية قلب)",
+     "steps_ar": "اهزم توينروفا زعيمة معبد الروح وخذ حاوية القلب."
+    }
+   ]
+  }
+ ],
+ "collections": [
+  {
+   "id": "items",
+   "ar": "الأدوات",
+   "en": "Items",
+   "items": [
+    {
+     "id": "items.0",
+     "name": "Fairy Ocarina",
+     "era": "Child",
+     "place": "KokiriForest",
+     "src": [
+      {
+       "t": "h",
+       "v": "42bd296f"
+      },
+      {
+       "t": "h",
+       "v": "b7df60f1"
+      }
+     ],
+     "steps": "Saria gives it to you as you leave Kokiri Forest. Story progress only.",
+     "steps_ar": "تعطيك إياها ساريا وأنت طالع من غابة كوكيري. جزء من القصة.",
+     "name_ar": "أوكارينا الجنية"
+    },
+    {
+     "id": "items.1",
+     "name": "Ocarina of Time",
+     "era": "Either",
+     "place": "HyruleField",
+     "src": [
+      {
+       "t": "h",
+       "v": "1da2c511"
+      },
+      {
+       "t": "h",
+       "v": "54e2a3d1"
+      }
+     ],
+     "steps": "After collecting all three Spiritual Stones, Zelda throws it into the Castle Town moat. Fetch it from there. Story progress only.",
+     "needs": [
+      {
+       "any": [
+        "quest.0"
+       ]
+      },
+      {
+       "any": [
+        "quest.1"
+       ]
+      },
+      {
+       "any": [
+        "quest.2"
+       ]
+      }
+     ],
+     "steps_ar": "بعد ما تجمع الثلاث أحجار الروحية، ترميها زيلدا في خندق السوق. طلّعها من هناك. جزء من القصة.",
+     "name_ar": "أوكارينا الزمن"
+    },
+    {
+     "id": "items.2",
+     "name": "Deku Sticks",
+     "era": "Child",
+     "place": "KokiriForest",
+     "src": [
+      {
+       "t": "h",
+       "v": "de2389d4"
+      },
+      {
+       "t": "h",
+       "v": "2fe6ab1a"
+      }
+     ],
+     "steps": "Dropped by a Deku Baba you kill while it stands upright. Default capacity is 10. Touch one to fire to use it as a torch; it burns out after a while.",
+     "steps_ar": "تطيح من الديكو بابا إذا قتلته وهو واقف. تشيل 10 بالبداية. لمّسها النار وتصير شعلة؛ وتحترق بعد شوي.",
+     "name_ar": "عصي ديكو"
+    },
+    {
+     "id": "items.3",
+     "name": "Deku Nuts",
+     "era": "Either",
+     "place": "KokiriForest",
+     "src": [
+      {
+       "t": "h",
+       "v": "2bedd82e"
+      },
+      {
+       "t": "h",
+       "v": "19b80dbc"
+      }
+     ],
+     "steps": "Dropped by a Deku Baba you hit in the face as it lunges. Default capacity is 20. It stuns some enemies and bosses, Gohma included.",
+     "steps_ar": "تطيح من الديكو بابا إذا ضربته في وجهه وهو يهجم. تشيل 20 بالبداية. تجمّد بعض الأعداء والزعماء، منهم غوما.",
+     "name_ar": "جوز ديكو"
+    },
+    {
+     "id": "items.4",
+     "name": "Fairy Slingshot",
+     "era": "Child",
+     "place": "DekuTree",
+     "src": [
+      {
+       "t": "h",
+       "v": "0ec22ee1"
+      },
+      {
+       "t": "h",
+       "v": "80d34ce9"
+      }
+     ],
+     "steps": "Found inside the Great Deku Tree. Default Deku Seed capacity is 30. It unlocks the Castle Town Shooting Gallery.",
+     "steps_ar": "داخل شجرة ديكو العظيمة. تشيل 30 بذرة بالبداية. تفتح لك ميدان الرماية في السوق.",
+     "name_ar": "مقلاع الجنية"
+    },
+    {
+     "id": "items.5",
+     "name": "Bombs",
+     "era": "Either",
+     "place": "DodongosCavern",
+     "src": [
+      {
+       "t": "h",
+       "v": "a63f1e2d"
+      },
+      {
+       "t": "h",
+       "v": "b0a1bf51"
+      }
+     ],
+     "steps": "Found inside Dodongo's Cavern.",
+     "steps_ar": "داخل كهف دودونغو.",
+     "name_ar": "القنابل"
+    },
+    {
+     "id": "items.6",
+     "name": "Bombchus",
+     "era": "Either",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "5ab49c8e"
+      },
+      {
+       "t": "h",
+       "v": "5ab49c8e"
+      },
+      {
+       "t": "h",
+       "v": "df7c517a"
+      }
+     ],
+     "steps": "Optional. Win the Bombchu Bowling mini-game in Castle Town.",
+     "needs": [
+      {
+       "any": [
+        "quest.1"
+       ]
+      }
+     ],
+     "steps_ar": "اختياري. فُز في لعبة بولينغ قنابل الفئران في السوق.",
+     "name_ar": "قنابل الفئران"
+    },
+    {
+     "id": "items.7",
+     "name": "Boomerang",
+     "era": "Child",
+     "place": "JabuJabu",
+     "src": [
+      {
+       "t": "h",
+       "v": "7f4ce38d"
+      },
+      {
+       "t": "h",
+       "v": "a1d76d31"
+      }
+     ],
+     "steps": "Found inside Lord Jabu-Jabu's Belly. It picks up distant items and is needed for many Gold Skulltulas.",
+     "steps_ar": "داخل بطن جابو جابو. يجيب لك الأشياء البعيدة، وتحتاجه للسكولتولا الذهبية كثير.",
+     "name_ar": "البومرانغ"
+    },
+    {
+     "id": "items.8",
+     "name": "Lens of Truth",
+     "era": "Either",
+     "place": "BottomOfTheWell",
+     "src": [
+      {
+       "t": "h",
+       "v": "7fe2a5b2"
+      },
+      {
+       "t": "h",
+       "v": "49d1c374"
+      }
+     ],
+     "steps": "Learn the Song of Storms as an adult and clear the Forest Temple, then return to the child era. Play the song at the Kakariko Windmill to open the Well. The Lens is inside Bottom of the Well. It reveals false walls and hidden secrets.",
+     "needs": [
+      {
+       "any": [
+        "songs.5"
+       ]
+      },
+      {
+       "any": [
+        "quest.4"
+       ]
+      }
+     ],
+     "steps_ar": "تعلّم أغنية العواصف وأنت كبير وخلّص معبد الغابة، بعدين ارجع لزمن الصغير. شغّل الأغنية في طاحونة كاكاريكو عشان ينفتح البئر. العدسة داخل قاع البئر. تكشف الجدران الوهمية والأسرار المخفية.",
+     "name_ar": "عدسة الحقيقة"
+    },
+    {
+     "id": "items.9",
+     "name": "Magic Beans",
+     "era": "Child",
+     "place": "ZoraRiver",
+     "src": [
+      {
+       "t": "h",
+       "v": "4c83e980"
+      },
+      {
+       "t": "h",
+       "v": "51362667"
+      },
+      {
+       "t": "h",
+       "v": "6d39c600"
+      },
+      {
+       "t": "h",
+       "v": "b003124d"
+      }
+     ],
+     "steps": "Optional. Buy them from the Bean Seller in Zora River. His stock is limited and each bean costs more than the last. Plant them in soil patches as Young Link; a floating platform appears in the adult era, often leading to Rupees, Gold Skulltulas or Pieces of Heart.",
+     "steps_ar": "اختياري. اشترها من بياع الفاصوليا في نهر زورا. عدده محدود وكل وحدة أغلى من اللي قبلها. ازرعها في التربة اللينة وأنت صغير؛ تطلع منصة طايرة في زمن الكبير توديك غالباً لروبيات أو السكولتولا الذهبية أو قطع قلوب.",
+     "name_ar": "الفاصوليا السحرية"
+    },
+    {
+     "id": "items.10",
+     "name": "Fairy Bow",
+     "era": "Adult",
+     "place": "ForestTemple",
+     "src": [
+      {
+       "t": "h",
+       "v": "69ec28be"
+      },
+      {
+       "t": "h",
+       "v": "938d56bf"
+      }
+     ],
+     "steps": "Found inside the Forest Temple. It unlocks the Kakariko Shooting Gallery and Gerudo Fortress Horseback Archery.",
+     "steps_ar": "داخل معبد الغابة. يفتح لك ميدان رماية كاكاريكو والرماية على الخيل في قلعة الجيرودو.",
+     "name_ar": "قوس الجنية"
+    },
+    {
+     "id": "items.11",
+     "name": "Hookshot",
+     "era": "Adult",
+     "place": "Graveyard",
+     "src": [
+      {
+       "t": "h",
+       "v": "ff98ed58"
+      },
+      {
+       "t": "h",
+       "v": "8573d2cd"
+      }
+     ],
+     "steps": "Win the Dampe Race in the Graveyard. The story needs it. It pulls you to vines, chains and grates, grabs distant items, and now also hits eye switches.",
+     "steps_ar": "فُز بسباق دامبي في المقبرة. ضروري للقصة. يسحبك للنباتات والسلاسل والشبك، يجيب الأشياء البعيدة، ويضرب أزرار العيون بعد.",
+     "name_ar": "الخطّاف"
+    },
+    {
+     "id": "items.12",
+     "name": "Longshot",
+     "era": "Adult",
+     "place": "WaterTemple",
+     "src": [
+      {
+       "t": "h",
+       "v": "38aea3bb"
+      },
+      {
+       "t": "h",
+       "v": "8499ea34"
+      }
+     ],
+     "steps": "Found inside the Water Temple. It doubles the Hookshot's reach, opening new areas and Gold Skulltulas.",
+     "steps_ar": "داخل معبد الماء. ضعف مدى الخطّاف، ويفتح أماكن جديدة و السكولتولا الذهبية.",
+     "name_ar": "الخطّاف الطويل"
+    },
+    {
+     "id": "items.13",
+     "name": "Megaton Hammer",
+     "era": "Adult",
+     "place": "FireTemple",
+     "src": [
+      {
+       "t": "h",
+       "v": "7227efd8"
+      },
+      {
+       "t": "h",
+       "v": "1aafdb66"
+      }
+     ],
+     "steps": "Found inside the Fire Temple. It presses heavy switches and smashes volcanic rock, opening areas like the Death Mountain Crater Great Fairy Fountain.",
+     "steps_ar": "داخل معبد النار. يضغط الأزرار الثقيلة ويكسر الصخر البركاني، ويفتح أماكن مثل نافورة الجنية العظيمة في فوهة جبل الموت.",
+     "name_ar": "مطرقة الميغاطن"
+    },
+    {
+     "id": "items.14",
+     "name": "Fire Arrows",
+     "era": "Adult",
+     "place": "LakeHylia",
+     "src": [
+      {
+       "t": "h",
+       "v": "4db7eae0"
+      },
+      {
+       "t": "h",
+       "v": "5e529ab9"
+      }
+     ],
+     "steps": "From the center island of Lake Hylia, shoot the ring of light at sunrise. The arrows land on a nearby island; swim over and pick them up. Easiest after the Water Temple.",
+     "needs": [
+      {
+       "any": [
+        "items.10"
+       ]
+      },
+      {
+       "any": [
+        "quest.6"
+       ]
+      }
+     ],
+     "steps_ar": "من الجزيرة اللي بنص بحيرة هايليا، اضرب حلقة الضوء وقت الشروق. السهام تطيح في جزيرة قريبة؛ اسبح لها وخذها. أسهل بعد معبد الماء.",
+     "name_ar": "أسهم النار"
+    },
+    {
+     "id": "items.15",
+     "name": "Ice Arrows",
+     "era": "Adult",
+     "place": "GerudoFortress",
+     "src": [
+      {
+       "t": "h",
+       "v": "5c8f3099"
+      },
+      {
+       "t": "h",
+       "v": "40735a8d"
+      }
+     ],
+     "steps": "Optional. Reward for clearing the Proving Grounds. It can freeze Bongo Bongo's hands and leave him open at once.",
+     "needs": [
+      {
+       "any": [
+        "items.10"
+       ]
+      },
+      {
+       "any": [
+        "upgrades.18"
+       ]
+      }
+     ],
+     "steps_ar": "اختياري. جائزة إنهاء ساحة التدريب (ساحة التدريب). تقدر تجمّد فيها يدين بونغو بونغو وتخليه مكشوف على طول.",
+     "name_ar": "أسهم الجليد"
+    },
+    {
+     "id": "items.16",
+     "name": "Light Arrows",
+     "era": "Adult",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "8637bab4"
+      },
+      {
+       "t": "h",
+       "v": "bfb285c8"
+      }
+     ],
+     "steps": "Zelda gives them to you when you visit the Temple of Time with all six medallions. Story progress only.",
+     "needs": [
+      {
+       "any": [
+        "items.10"
+       ]
+      },
+      {
+       "any": [
+        "quest.4"
+       ]
+      },
+      {
+       "any": [
+        "quest.5"
+       ]
+      },
+      {
+       "any": [
+        "quest.6"
+       ]
+      },
+      {
+       "any": [
+        "quest.7"
+       ]
+      },
+      {
+       "any": [
+        "quest.8"
+       ]
+      },
+      {
+       "any": [
+        "quest.3"
+       ]
+      }
+     ],
+     "steps_ar": "تعطيك إياها زيلدا لما تزور معبد الزمن ومعك الست ميداليات. جزء من القصة.",
+     "name_ar": "أسهم النور"
+    },
+    {
+     "id": "items.17",
+     "name": "Bottle 1 of 5",
+     "era": "Either",
+     "src": [
+      {
+       "t": "h",
+       "v": "8f13a1f5"
+      },
+      {
+       "t": "h",
+       "v": "d53ce3a7"
+      }
+     ],
+     "steps": "The game only counts how many bottles you have, not which ones. Bottles come from: 1) catching the loose Bug for the scared Potion Shop owner in Castle Town (new in the remake); 2) winning Talon's Super Cucco game at Lon Lon Ranch; 3) returning the Cuccos to their pen in Kakariko Village; 4) Ruto's Letter on the floor of Lake Hylia (needed for the story); 5) as an adult, 500 points at the Poe Shop in Castle Town (each Big Poe is 100; catch them in Hyrule Field riding Epona).",
+     "steps_ar": "اللعبة تحسب عدد القناني اللي معك بس، مو أي وحدة جبت. القناني الخمس من: ١) تمسك الحشرة الهاربة لصاحب محل الدواء الخايف في السوق (جديدة في الريميك)؛ ٢) تفوز في لعبة الدجاجة السوبر حقت تالون في مزرعة لون لون؛ ٣) ترجّع الدجاج لحظيرته في قرية كاكاريكو؛ ٤) رسالة روتو في قاع بحيرة هايليا (ضرورية للقصة)؛ ٥) وأنت كبير، تجمع 500 نقطة في محل الأشباح في السوق (كل شبح بو كبير بـ 100، تصيدهم في سهل هايرول وأنت راكب إيبونا).",
+     "name_ar": "القنينة 1 من 5"
+    },
+    {
+     "id": "items.18",
+     "name": "Bottle 2 of 5",
+     "era": "Either",
+     "src": [
+      {
+       "t": "h",
+       "v": "f191020e"
+      },
+      {
+       "t": "h",
+       "v": "fca29a04"
+      }
+     ],
+     "steps": "The game only counts how many bottles you have, not which ones. Bottles come from: 1) catching the loose Bug for the scared Potion Shop owner in Castle Town (new in the remake); 2) winning Talon's Super Cucco game at Lon Lon Ranch; 3) returning the Cuccos to their pen in Kakariko Village; 4) Ruto's Letter on the floor of Lake Hylia (needed for the story); 5) as an adult, 500 points at the Poe Shop in Castle Town (each Big Poe is 100; catch them in Hyrule Field riding Epona).",
+     "steps_ar": "اللعبة تحسب عدد القناني اللي معك بس، مو أي وحدة جبت. القناني الخمس من: ١) تمسك الحشرة الهاربة لصاحب محل الدواء الخايف في السوق (جديدة في الريميك)؛ ٢) تفوز في لعبة الدجاجة السوبر حقت تالون في مزرعة لون لون؛ ٣) ترجّع الدجاج لحظيرته في قرية كاكاريكو؛ ٤) رسالة روتو في قاع بحيرة هايليا (ضرورية للقصة)؛ ٥) وأنت كبير، تجمع 500 نقطة في محل الأشباح في السوق (كل شبح بو كبير بـ 100، تصيدهم في سهل هايرول وأنت راكب إيبونا).",
+     "name_ar": "القنينة 2 من 5"
+    },
+    {
+     "id": "items.19",
+     "name": "Bottle 3 of 5",
+     "era": "Either",
+     "src": [
+      {
+       "t": "h",
+       "v": "27a78d85"
+      },
+      {
+       "t": "h",
+       "v": "893216a1"
+      }
+     ],
+     "steps": "The game only counts how many bottles you have, not which ones. Bottles come from: 1) catching the loose Bug for the scared Potion Shop owner in Castle Town (new in the remake); 2) winning Talon's Super Cucco game at Lon Lon Ranch; 3) returning the Cuccos to their pen in Kakariko Village; 4) Ruto's Letter on the floor of Lake Hylia (needed for the story); 5) as an adult, 500 points at the Poe Shop in Castle Town (each Big Poe is 100; catch them in Hyrule Field riding Epona).",
+     "steps_ar": "اللعبة تحسب عدد القناني اللي معك بس، مو أي وحدة جبت. القناني الخمس من: ١) تمسك الحشرة الهاربة لصاحب محل الدواء الخايف في السوق (جديدة في الريميك)؛ ٢) تفوز في لعبة الدجاجة السوبر حقت تالون في مزرعة لون لون؛ ٣) ترجّع الدجاج لحظيرته في قرية كاكاريكو؛ ٤) رسالة روتو في قاع بحيرة هايليا (ضرورية للقصة)؛ ٥) وأنت كبير، تجمع 500 نقطة في محل الأشباح في السوق (كل شبح بو كبير بـ 100، تصيدهم في سهل هايرول وأنت راكب إيبونا).",
+     "name_ar": "القنينة 3 من 5"
+    },
+    {
+     "id": "items.20",
+     "name": "Bottle 4 of 5",
+     "era": "Either",
+     "src": [
+      {
+       "t": "h",
+       "v": "a393ea92"
+      },
+      {
+       "t": "h",
+       "v": "5324f9d3"
+      }
+     ],
+     "steps": "The game only counts how many bottles you have, not which ones. Bottles come from: 1) catching the loose Bug for the scared Potion Shop owner in Castle Town (new in the remake); 2) winning Talon's Super Cucco game at Lon Lon Ranch; 3) returning the Cuccos to their pen in Kakariko Village; 4) Ruto's Letter on the floor of Lake Hylia (needed for the story); 5) as an adult, 500 points at the Poe Shop in Castle Town (each Big Poe is 100; catch them in Hyrule Field riding Epona).",
+     "steps_ar": "اللعبة تحسب عدد القناني اللي معك بس، مو أي وحدة جبت. القناني الخمس من: ١) تمسك الحشرة الهاربة لصاحب محل الدواء الخايف في السوق (جديدة في الريميك)؛ ٢) تفوز في لعبة الدجاجة السوبر حقت تالون في مزرعة لون لون؛ ٣) ترجّع الدجاج لحظيرته في قرية كاكاريكو؛ ٤) رسالة روتو في قاع بحيرة هايليا (ضرورية للقصة)؛ ٥) وأنت كبير، تجمع 500 نقطة في محل الأشباح في السوق (كل شبح بو كبير بـ 100، تصيدهم في سهل هايرول وأنت راكب إيبونا).",
+     "name_ar": "القنينة 4 من 5"
+    },
+    {
+     "id": "items.21",
+     "name": "Bottle 5 of 5 (Poe Shop)",
+     "era": "Adult",
+     "src": [
+      {
+       "t": "h",
+       "v": "c11a3346"
+      },
+      {
+       "t": "h",
+       "v": "c92b16be"
+      }
+     ],
+     "steps": "As an adult, earn 500 points at the Poe Shop in Castle Town. Each Big Poe is worth 100: ride Epona over the purple glowing spots in Hyrule Field, shoot the Big Poe with an arrow and catch it in a bottle.",
+     "steps_ar": "وأنت كبير، جمّع 500 نقطة في محل الأشباح في السوق. كل شبح بو كبير بـ 100: اركب إيبونا فوق الأماكن اللي تلمع بنفسجي في سهل هايرول، اضرب شبح بو الكبير بسهم وامسكه في قنينة.",
+     "name_ar": "القنينة 5 من 5 (محل الأشباح)",
+     "needs": [
+      {
+       "any": [
+        "songs.1"
+       ]
+      },
+      {
+       "any": [
+        "items.10"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "equip",
+   "ar": "الأسلحة والملابس",
+   "en": "Weapons & clothes",
+   "items": [
+    {
+     "id": "equip.0",
+     "name": "Kokiri Sword",
+     "era": "Child",
+     "place": "KokiriForest",
+     "src": [
+      {
+       "t": "h",
+       "v": "405d8a0f"
+      },
+      {
+       "t": "h",
+       "v": "eeb495b9"
+      }
+     ],
+     "steps": "Take it from the Training Grounds in Kokiri Forest. The story needs it. It is Young Link's only sword and hits weakly.",
+     "steps_ar": "خذه من ساحة التدريب في غابة كوكيري. ضروري للقصة. هو سيف لينك الصغير الوحيد وضربته ضعيفة.",
+     "name_ar": "سيف كوكيري"
+    },
+    {
+     "id": "equip.1",
+     "name": "Master Sword",
+     "era": "Adult",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "7ae38e5b"
+      },
+      {
+       "t": "h",
+       "v": "f1c45294"
+      }
+     ],
+     "steps": "Play the Song of Time at the altar in the Temple of Time after gathering the three Spiritual Stones. It is Adult Link's weapon, stronger and longer than the Kokiri Sword.",
+     "needs": [
+      {
+       "any": [
+        "quest.0"
+       ]
+      },
+      {
+       "any": [
+        "quest.1"
+       ]
+      },
+      {
+       "any": [
+        "quest.2"
+       ]
+      },
+      {
+       "any": [
+        "songs.3"
+       ]
+      }
+     ],
+     "steps_ar": "شغّل أغنية الزمن عند المذبح في معبد الزمن بعد ما تجمع الثلاث أحجار الروحية. سلاح لينك الكبير، أقوى وأطول من سيف كوكيري.",
+     "name_ar": "السيف الأسطوري"
+    },
+    {
+     "id": "equip.2",
+     "name": "Biggoron's Sword",
+     "era": "Adult",
+     "place": "DeathMountainTrail",
+     "src": [
+      {
+       "t": "h",
+       "v": "33466812"
+      },
+      {
+       "t": "h",
+       "v": "b0b3e399"
+      },
+      {
+       "t": "h",
+       "v": "1e824efa"
+      },
+      {
+       "t": "h",
+       "v": "396a5c02"
+      }
+     ],
+     "steps": "Optional. Finish the Pocket Egg trading sidequest. It is Link's strongest sword, hitting harder and farther but swinging slower.",
+     "steps_ar": "اختياري. خلّص مهمة التبادل اللي تبدأ ببيضة الجيب. أقوى سيف عند لينك، يضرب أقوى وأبعد بس أبطأ.",
+     "name_ar": "سيف بيغورون"
+    },
+    {
+     "id": "equip.3",
+     "name": "Deku Shield",
+     "era": "Child",
+     "place": "KokiriForest",
+     "src": [
+      {
+       "t": "h",
+       "v": "5217da1e"
+      },
+      {
+       "t": "h",
+       "v": "7ca64f23"
+      }
+     ],
+     "steps": "Buy it at the Kokiri Forest Item Shop for 40 Rupees. The story needs it. Fire destroys it.",
+     "steps_ar": "اشتره من محل غابة كوكيري بـ 40 روبية. ضروري للقصة. النار تحرقه.",
+     "name_ar": "درع ديكو"
+    },
+    {
+     "id": "equip.4",
+     "name": "Hylian Shield",
+     "era": "Either",
+     "place": "Graveyard",
+     "src": [
+      {
+       "t": "h",
+       "v": "2f817d54"
+      },
+      {
+       "t": "h",
+       "v": "08befd3a"
+      }
+     ],
+     "steps": "Young Link can find one free in a Graveyard grotto. Otherwise buy it in Castle Town for 80 Rupees, or 60 if you showed Zelda's Letter to the Kakariko guard first. Adult Link can use it fully; Young Link can only crouch-guard with it.",
+     "steps_ar": "لينك الصغير يلقاه ببلاش في مغارة في المقبرة. أو اشتره من السوق بـ 80 روبية، أو 60 إذا وريت حارس كاكاريكو رسالة زيلدا أول. الكبير يستخدمه كامل؛ الصغير يقدر يتحامى فيه وهو منحني بس.",
+     "name_ar": "درع هايليا"
+    },
+    {
+     "id": "equip.5",
+     "name": "Mirror Shield",
+     "era": "Adult",
+     "place": "SpiritTemple",
+     "src": [
+      {
+       "t": "h",
+       "v": "75e94e42"
+      },
+      {
+       "t": "h",
+       "v": "f58e0e2f"
+      }
+     ],
+     "steps": "Found in the adult-era half of the Spirit Temple.",
+     "steps_ar": "في نص معبد الروح حق زمن الكبير.",
+     "name_ar": "درع المرآة"
+    },
+    {
+     "id": "equip.6",
+     "name": "Goron Tunic",
+     "era": "Adult",
+     "place": "GoronCity",
+     "src": [
+      {
+       "t": "h",
+       "v": "ae5611af"
+      },
+      {
+       "t": "h",
+       "v": "21ecbd19"
+      }
+     ],
+     "steps": "Buy it in the Goron City shop for 600 Rupees, or get it free by bombing the Goron named Link, stopping his roll, and finishing his dialogue. The story needs it. It protects you from intense heat.",
+     "steps_ar": "اشترها من محل مدينة الغورون بـ 600 روبية، أو خذها ببلاش: فجّر الغوروني اللي اسمه لينك، وقّف دحرجته وكمّل كلامه. ضرورية للقصة. تحميك من الحرارة.",
+     "name_ar": "رداء الغورون"
+    },
+    {
+     "id": "equip.7",
+     "name": "Zora Tunic",
+     "era": "Adult",
+     "place": "ZoraDomain",
+     "src": [
+      {
+       "t": "h",
+       "v": "4f5a929c"
+      },
+      {
+       "t": "h",
+       "v": "b816af94"
+      }
+     ],
+     "steps": "Buy it in the Zora's Domain shop, or get it free by melting the Red Ice around King Zora with Blue Fire from the Ice Cavern. The story needs it. It lets you breathe underwater.",
+     "steps_ar": "اشترها من محل مملكة زورا، أو خذها ببلاش لما تذوّب الثلج الأحمر حول الملك زورا بالنار الزرقا من كهف الجليد. ضرورية للقصة. تخليك تتنفس تحت الماي.",
+     "name_ar": "رداء الزورا"
+    },
+    {
+     "id": "equip.8",
+     "name": "Iron Boots",
+     "era": "Adult",
+     "place": "IceCavern",
+     "src": [
+      {
+       "t": "h",
+       "v": "5fa190e6"
+      },
+      {
+       "t": "h",
+       "v": "2bad189a"
+      }
+     ],
+     "steps": "Found in the Ice Cavern, reached from the frozen Zora's Fountain. The story needs it. It sinks you to the bottom of any water. Use it straight away to grab the Piece of Heart at the bottom of Zora's Fountain.",
+     "steps_ar": "في كهف الجليد، توصله من نافورة زورا المتجمدة. ضرورية للقصة. تنزلك لقاع أي ماي. استخدمها على طول وخذ قطعة القلب اللي في قاع نافورة زورا.",
+     "name_ar": "الجزمة الحديدية"
+    },
+    {
+     "id": "equip.9",
+     "name": "Hover Boots",
+     "era": "Adult",
+     "place": "ShadowTemple",
+     "src": [
+      {
+       "t": "h",
+       "v": "1109c920"
+      },
+      {
+       "t": "h",
+       "v": "c9220366"
+      }
+     ],
+     "steps": "Found inside the Shadow Temple.",
+     "steps_ar": "داخل معبد الظل.",
+     "name_ar": "الجزمة الطايرة"
+    }
+   ]
+  },
+  {
+   "id": "upgrades",
+   "ar": "الترقيات",
+   "en": "Upgrades",
+   "items": [
+    {
+     "id": "upgrades.0",
+     "name": "Goron's Bracelet",
+     "era": "Child",
+     "place": "GoronCity",
+     "src": [
+      {
+       "t": "h",
+       "v": "9880707e"
+      },
+      {
+       "t": "h",
+       "v": "d1317941"
+      }
+     ],
+     "steps": "Play Saria's Song for Darunia in Goron City. The story needs it. It lets you pick up Bomb Flowers.",
+     "needs": [
+      {
+       "any": [
+        "songs.2"
+       ]
+      }
+     ],
+     "steps_ar": "شغّل أغنية ساريا لدارونيا في مدينة الغورون. ضروري للقصة. يخليك تشيل زهور القنابل.",
+     "name_ar": "سوار الغورون"
+    },
+    {
+     "id": "upgrades.1",
+     "name": "Silver Gauntlets",
+     "era": "Adult",
+     "place": "SpiritTemple",
+     "src": [
+      {
+       "t": "h",
+       "v": "87e58de3"
+      },
+      {
+       "t": "h",
+       "v": "0012b8c0"
+      }
+     ],
+     "steps": "Found in the child-era half of the Spirit Temple. It lets you lift and throw the black Ganon pillars.",
+     "steps_ar": "في نص معبد الروح حق زمن الصغير. تقدر تشيل وترمي أعمدة غانون السودا.",
+     "name_ar": "القفازات الفضية"
+    },
+    {
+     "id": "upgrades.2",
+     "name": "Golden Gauntlets",
+     "era": "Adult",
+     "place": "HyruleCastle",
+     "src": [
+      {
+       "t": "h",
+       "v": "3ef15ec4"
+      },
+      {
+       "t": "h",
+       "v": "40ae1183"
+      }
+     ],
+     "steps": "Found in the Shadow section of Ganondorf's Castle. It lets you lift the golden Ganon pillars, such as the one blocking the Great Fairy Fountain outside the castle.",
+     "steps_ar": "في قسم الظل داخل قلعة غانوندورف. تقدر تشيل أعمدة غانون الذهبية، مثل اللي سادة نافورة الجنية العظيمة برا القلعة.",
+     "name_ar": "القفازات الذهبية"
+    },
+    {
+     "id": "upgrades.3",
+     "name": "Silver Scale",
+     "era": "Either",
+     "place": "ZoraDomain",
+     "src": [
+      {
+       "t": "h",
+       "v": "1208fb3e"
+      },
+      {
+       "t": "h",
+       "v": "1240044b"
+      }
+     ],
+     "steps": "Earn it from the Diving Lesson mini-game in Zora's Domain. The story needs it. It lets you dive deep enough to reach Ruto's Letter.",
+     "steps_ar": "خذه من لعبة الغوص في مملكة زورا. ضروري للقصة. يخليك تغوص لين رسالة روتو.",
+     "name_ar": "الحرشفة الفضية"
+    },
+    {
+     "id": "upgrades.4",
+     "name": "Golden Scale",
+     "era": "Either",
+     "place": "LakeHylia",
+     "src": [
+      {
+       "t": "h",
+       "v": "ccc1909a"
+      },
+      {
+       "t": "h",
+       "v": "4aeb140a"
+      }
+     ],
+     "steps": "Optional. Catch a large fish at the Lake Hylia Fishing Pond. It doubles your dive depth, enough to reach the Piece of Heart in the Lakeside Laboratory tank. Easiest after the Water Temple.",
+     "steps_ar": "اختياري. صِد سمكة كبيرة في بركة الصيد ببحيرة هايليا. يضاعف عمق غوصك، يكفي توصل قطعة القلب في بركة المختبر. أسهل بعد معبد الماء.",
+     "name_ar": "الحرشفة الذهبية"
+    },
+    {
+     "id": "upgrades.5",
+     "name": "Adult's Wallet",
+     "era": "Either",
+     "place": "KakarikoVillage",
+     "src": [
+      {
+       "t": "h",
+       "v": "d1360de8"
+      },
+      {
+       "t": "h",
+       "v": "2d2c874b"
+      }
+     ],
+     "steps": "With 10 Gold Skulltula Tokens, talk to the Cursed Rich Man in the Kakariko Spider House.",
+     "needs": [
+      {
+       "gs": 10
+      }
+     ],
+     "steps_ar": "إذا معك 10 عملات السكولتولا الذهبية، كلّم الرجل الغني الملعون في بيت العناكب بكاكاريكو.",
+     "name_ar": "محفظة الكبار"
+    },
+    {
+     "id": "upgrades.6",
+     "name": "Giant's Wallet",
+     "era": "Either",
+     "place": "KakarikoVillage",
+     "src": [
+      {
+       "t": "h",
+       "v": "b5031190"
+      },
+      {
+       "t": "h",
+       "v": "afa4bb52"
+      }
+     ],
+     "steps": "With 30 Gold Skulltula Tokens, talk to the Cursed Rich Man.",
+     "needs": [
+      {
+       "gs": 30
+      }
+     ],
+     "steps_ar": "إذا معك 30 عملات السكولتولا الذهبية، كلّم الرجل الغني الملعون.",
+     "name_ar": "محفظة العملاق"
+    },
+    {
+     "id": "upgrades.7",
+     "name": "Big Quiver",
+     "era": "Adult",
+     "place": "KakarikoVillage",
+     "src": [
+      {
+       "t": "h",
+       "v": "9d872202"
+      },
+      {
+       "t": "h",
+       "v": "3bb370e1"
+      }
+     ],
+     "steps": "Win the Kakariko Shooting Gallery.",
+     "needs": [
+      {
+       "any": [
+        "items.10"
+       ]
+      }
+     ],
+     "steps_ar": "فُز في ميدان الرماية بكاكاريكو.",
+     "name_ar": "جعبة الأسهم الكبيرة"
+    },
+    {
+     "id": "upgrades.8",
+     "name": "Biggest Quiver",
+     "era": "Adult",
+     "place": "GerudoFortress",
+     "src": [
+      {
+       "t": "h",
+       "v": "21985b09"
+      },
+      {
+       "t": "h",
+       "v": "d331c7da"
+      }
+     ],
+     "steps": "Win the Horseback Archery mini-game at Gerudo Fortress.",
+     "needs": [
+      {
+       "any": [
+        "items.10"
+       ]
+      },
+      {
+       "any": [
+        "songs.1"
+       ]
+      },
+      {
+       "any": [
+        "upgrades.18"
+       ]
+      }
+     ],
+     "steps_ar": "فُز في الرماية على الخيل في قلعة الجيرودو.",
+     "name_ar": "أكبر جعبة أسهم"
+    },
+    {
+     "id": "upgrades.9",
+     "name": "Big Bomb Bag",
+     "era": "Either",
+     "place": "GoronCity",
+     "src": [
+      {
+       "t": "h",
+       "v": "b2c478da"
+      },
+      {
+       "t": "h",
+       "v": "e5ff45aa"
+      }
+     ],
+     "steps": "Stop the rolling Goron near the sign in one of the middle-level tunnels. Stand at the tunnel mouth until he comes into view, pull out a Bomb, then run to the sign so it goes off as he passes.",
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "steps_ar": "وقّف الغوروني اللي يتدحرج جنب اللوحة في وحدة من أنفاق الدور الوسط. وقّف عند فم النفق لين يبان، طلّع قنبلة، واركض للوحة عشان تنفجر وهو يمر.",
+     "name_ar": "كيس القنابل الكبير"
+    },
+    {
+     "id": "upgrades.10",
+     "name": "Biggest Bomb Bag",
+     "era": "Either",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "968a5a79"
+      },
+      {
+       "t": "h",
+       "v": "bd3ca2c6"
+      }
+     ],
+     "steps": "Bombchu Bowling in Castle Town, as young Link. The prize changes between rounds: check the prize on display before paying and play when it's the Bomb Bag. It can only be won once; if you already have the Big Bomb Bag it becomes the Biggest.",
+     "needs": [
+      {
+       "any": [
+        "items.6"
+       ]
+      }
+     ],
+     "steps_ar": "من بولينغ قنابل الفئران في السوق وأنت صغير. الجوائز تتغير، فشوف الجائزة المعروضة قبل ما تدفع، والعب لما تكون حقيبة القنابل. تنجاب مرة وحدة بس، وإذا عندك كيس القنابل الكبير تصير هي الأكبر.",
+     "name_ar": "أكبر كيس قنابل"
+    },
+    {
+     "id": "upgrades.11",
+     "name": "Big Bullet Bag",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "e6cd55d2"
+      },
+      {
+       "t": "h",
+       "v": "9a30a9e5"
+      }
+     ],
+     "steps": "Win the Castle Town Shooting Gallery. The two Seed Bag upgrades can come in either order.",
+     "needs": [
+      {
+       "any": [
+        "items.4"
+       ]
+      }
+     ],
+     "steps_ar": "فُز في ميدان الرماية بالسوق. ترقيتين كيس البذور تجي بأي ترتيب.",
+     "name_ar": "كيس البذور الكبير"
+    },
+    {
+     "id": "upgrades.12",
+     "name": "Biggest Bullet Bag",
+     "era": "Child",
+     "place": "LostWoods",
+     "src": [
+      {
+       "t": "h",
+       "v": "b669f025"
+      },
+      {
+       "t": "h",
+       "v": "7b9673f5"
+      }
+     ],
+     "steps": "In the Lost Woods, go right from the entrance and hit the Deku Scrub target's bullseye three times. The two Seed Bag upgrades can come in either order.",
+     "needs": [
+      {
+       "any": [
+        "items.4"
+       ]
+      }
+     ],
+     "steps_ar": "في الغابات الضائعة، روح يمين من المدخل واضرب نص هدف شجيرة ديكو ثلاث مرات. ترقيتين كيس البذور تجي بأي ترتيب.",
+     "name_ar": "أكبر كيس بذور"
+    },
+    {
+     "id": "upgrades.13",
+     "name": "Deku Nut upgrade 1",
+     "era": "Either",
+     "place": "LostWoods",
+     "src": [
+      {
+       "t": "h",
+       "v": "960820db"
+      },
+      {
+       "t": "h",
+       "v": "eaa1785e"
+      }
+     ],
+     "steps": "Blow up the boulder beside the Sacred Grove entrance with a Bomb and enter the grotto. The Business Scrub sells it for 40 Rupees.",
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "steps_ar": "فجّر الصخرة اللي جنب مدخل المرج المقدس بقنبلة وادخل المغارة. شجيرة ديكو البيّاعة يبيعها بـ 40 روبية.",
+     "name_ar": "ترقية جوز ديكو 1"
+    },
+    {
+     "id": "upgrades.14",
+     "name": "Deku Nut upgrade 2",
+     "era": "Either",
+     "place": "LostWoods",
+     "src": [
+      {
+       "t": "h",
+       "v": "9a5db0b6"
+      },
+      {
+       "t": "h",
+       "v": "d60e4b23"
+      }
+     ],
+     "steps": "Wear the Mask of Truth in front of the Scrubs at the Forest Stage in the Lost Woods.",
+     "needs": [
+      {
+       "any": [
+        "masks.4"
+       ]
+      }
+     ],
+     "steps_ar": "البس قناع الحقيقة قدام شجيرات ديكو في مسرح الغابة (مسرح الغابة) بالغابات الضائعة.",
+     "name_ar": "ترقية جوز ديكو 2"
+    },
+    {
+     "id": "upgrades.15",
+     "name": "Deku Stick upgrade 1",
+     "era": "Child",
+     "place": "LostWoods",
+     "src": [
+      {
+       "t": "h",
+       "v": "cbf00480"
+      },
+      {
+       "t": "h",
+       "v": "41db7ab5"
+      }
+     ],
+     "steps": "From the Lost Woods entrance go right, then right again, and find the grotto at the dead end. The Business Scrub there sells it for 40 Rupees.",
+     "steps_ar": "من مدخل الغابات الضائعة روح يمين، بعدين يمين مرة ثانية، وتلقى المغارة في الطريق المسدود. شجيرة ديكو البيّاعة يبيعها بـ 40 روبية.",
+     "name_ar": "ترقية عصي ديكو 1"
+    },
+    {
+     "id": "upgrades.16",
+     "name": "Deku Stick upgrade 2",
+     "era": "Child",
+     "place": "LostWoods",
+     "src": [
+      {
+       "t": "h",
+       "v": "a10f2dcf"
+      },
+      {
+       "t": "h",
+       "v": "48e53698"
+      }
+     ],
+     "steps": "Wear the Skull Mask in front of the Scrubs at the Forest Stage in the Lost Woods.",
+     "needs": [
+      {
+       "any": [
+        "masks.1"
+       ]
+      }
+     ],
+     "steps_ar": "البس قناع الجمجمة قدام شجيرات ديكو في مسرح الغابة بالغابات الضائعة.",
+     "name_ar": "ترقية عصي ديكو 2"
+    },
+    {
+     "id": "upgrades.17",
+     "name": "Echo Gem",
+     "era": "Either",
+     "place": "KakarikoVillage",
+     "src": [
+      {
+       "t": "h",
+       "v": "dd587ed8"
+      },
+      {
+       "t": "h",
+       "v": "f3b14ce2"
+      }
+     ],
+     "steps": "With 20 Gold Skulltula Tokens, talk to the Cursed Rich Man. Equipped, it pings and flashes when a Gold Skulltula is close.",
+     "needs": [
+      {
+       "gs": 20
+      }
+     ],
+     "steps_ar": "إذا معك 20 عملات السكولتولا الذهبية، كلّم الرجل الغني الملعون. لما تلبسها ترن وتلمع إذا فيه السكولتولا الذهبية قريبة.",
+     "name_ar": "جوهرة الصدى"
+    },
+    {
+     "id": "upgrades.18",
+     "name": "Gerudo's Card",
+     "era": "Adult",
+     "place": "GerudoFortress",
+     "src": [
+      {
+       "t": "h",
+       "v": "0e6264c7"
+      },
+      {
+       "t": "h",
+       "v": "feb4d56b"
+      }
+     ],
+     "steps": "Free all the carpenters in Gerudo Fortress and impress the Gerudo Captain. The story needs it. It grants free entry to the Fortress, the Proving Grounds and Horseback Archery.",
+     "steps_ar": "حرر كل النجارين في قلعة الجيرودو وأبهر قائدة الجيرودو. ضرورية للقصة. تدخلك القلعة وساحة التدريب والرماية على الخيل ببلاش.",
+     "name_ar": "بطاقة الجيرودو"
+    }
+   ]
+  },
+  {
+   "id": "fairies",
+   "ar": "الجنيات العظيمة",
+   "en": "Great Fairies",
+   "items": [
+    {
+     "id": "fairies.0",
+     "name": "Din's Fire",
+     "era": "Either",
+     "place": "DeathMountainTrail",
+     "src": [
+      {
+       "t": "h",
+       "v": "fa04e611"
+      },
+      {
+       "t": "h",
+       "v": "b796c16d"
+      }
+     ],
+     "steps": "Offer 25 Rupees to the Great Fairy on Death Mountain. The spell engulfs everything near Link in flames and is needed to open the Shadow Temple.",
+     "steps_ar": "قدّم 25 روبية للجنية العظيمة في جبل الموت. التعويذة تولّع كل شي حول لينك، وتحتاجها عشان تفتح معبد الظل.",
+     "name_ar": "نار دين"
+    },
+    {
+     "id": "fairies.1",
+     "name": "Farore's Wind",
+     "era": "Either",
+     "place": "ZoraFountain",
+     "src": [
+      {
+       "t": "h",
+       "v": "ffabf058"
+      },
+      {
+       "t": "h",
+       "v": "47f2ca87"
+      }
+     ],
+     "steps": "Optional. Make a 100 Rupee offering at the Zora's Fountain Great Fairy Fountain. It sets a return point inside a dungeon, one at a time, that you can warp back to.",
+     "steps_ar": "اختياري. قدّم 100 روبية في نافورة الجنية العظيمة بنافورة زورا. تحط نقطة رجوع داخل الزنزانة وتقدر تنتقل لها.",
+     "name_ar": "رياح فارور"
+    },
+    {
+     "id": "fairies.2",
+     "name": "Nayru's Love",
+     "era": "Adult",
+     "place": "DesertColossus",
+     "src": [
+      {
+       "t": "h",
+       "v": "00b44241"
+      },
+      {
+       "t": "h",
+       "v": "f0828cd0"
+      }
+     ],
+     "steps": "Optional. Make a 300 Rupee offering at the Desert Colossus Great Fairy Fountain.",
+     "steps_ar": "اختياري. قدّم 300 روبية في نافورة الجنية العظيمة بتمثال الصحراء.",
+     "name_ar": "حب نايرو"
+    },
+    {
+     "id": "fairies.3",
+     "name": "Magic",
+     "era": "Either",
+     "place": "HyruleCastle",
+     "src": [
+      {
+       "t": "h",
+       "v": "b1309073"
+      },
+      {
+       "t": "h",
+       "v": "5e671d92"
+      }
+     ],
+     "steps": "Optional. Offer 50 Rupees to the Great Fairy at Hyrule Castle (her fountain is opened with Bombs). Charge a spin by holding the attack button, or spin the stick and then attack.",
+     "needs": [
+      {
+       "any": [
+        "items.5",
+        "items.6"
+       ]
+      }
+     ],
+     "steps_ar": "اختياري. قدّم 50 روبية للجنية العظيمة في قلعة هايرول (تفتح نافورتها بقنبلة). اشحن الدوران بضغطة طويلة على زر الضرب، أو لف العصا وبعدين اضرب.",
+     "name_ar": "السحر"
+    },
+    {
+     "id": "fairies.4",
+     "name": "Double Magic",
+     "era": "Either",
+     "place": "DeathMountainCrater",
+     "src": [
+      {
+       "t": "h",
+       "v": "87ca4826"
+      },
+      {
+       "t": "h",
+       "v": "5f043856"
+      }
+     ],
+     "steps": "Optional. Make a 200 Rupee offering at the Death Mountain Crater Great Fairy Fountain.",
+     "needs": [
+      {
+       "any": [
+        "items.13"
+       ]
+      }
+     ],
+     "steps_ar": "اختياري. قدّم 200 روبية في نافورة الجنية العظيمة بفوهة جبل الموت.",
+     "name_ar": "السحر المضاعف"
+    },
+    {
+     "id": "fairies.5",
+     "name": "Double Defense",
+     "era": "Adult",
+     "place": "HyruleCastle",
+     "src": [
+      {
+       "t": "h",
+       "v": "944b78be"
+      },
+      {
+       "t": "h",
+       "v": "9a826fab"
+      }
+     ],
+     "steps": "Optional. Make a 500 Rupee offering at the Great Fairy Fountain outside Ganondorf's Castle.",
+     "needs": [
+      {
+       "any": [
+        "upgrades.2"
+       ]
+      }
+     ],
+     "steps_ar": "اختياري. قدّم 500 روبية في نافورة الجنية العظيمة برا قلعة غانوندورف.",
+     "name_ar": "الدفاع المضاعف"
+    }
+   ]
+  },
+  {
+   "id": "masks",
+   "ar": "الأقنعة",
+   "en": "Masks",
+   "items": [
+    {
+     "id": "masks.0",
+     "name": "Keaton Mask",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "35c60e1d"
+      },
+      {
+       "t": "h",
+       "v": "b5c10899"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قناع كيتون"
+    },
+    {
+     "id": "masks.1",
+     "name": "Skull Mask",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "d097482a"
+      },
+      {
+       "t": "h",
+       "v": "47b2d775"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قناع الجمجمة"
+    },
+    {
+     "id": "masks.2",
+     "name": "Spooky Mask",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "c0cf68a7"
+      },
+      {
+       "t": "h",
+       "v": "f046629e"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "القناع المرعب"
+    },
+    {
+     "id": "masks.3",
+     "name": "Bunny Hood",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "65aebe17"
+      },
+      {
+       "t": "h",
+       "v": "7e607033"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قلنسوة الأرنب"
+    },
+    {
+     "id": "masks.4",
+     "name": "Mask of Truth",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "f7d5bd9c"
+      },
+      {
+       "t": "h",
+       "v": "96459cd3"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قناع الحقيقة"
+    },
+    {
+     "id": "masks.5",
+     "name": "Goron Mask",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "adfccd91"
+      },
+      {
+       "t": "h",
+       "v": "fc508da7"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قناع الغورون"
+    },
+    {
+     "id": "masks.6",
+     "name": "Zora Mask",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "280eb00e"
+      },
+      {
+       "t": "h",
+       "v": "924e9a46"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قناع الزورا"
+    },
+    {
+     "id": "masks.7",
+     "name": "Gerudo Mask",
+     "era": "Child",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "b1fc4c1d"
+      },
+      {
+       "t": "h",
+       "v": "0e94a8df"
+      }
+     ],
+     "steps": "Masks come from the Happy Mask Shop in Castle Town (after you show Zelda's Letter to the Kakariko gate guard). Borrow a mask, sell it to the right customer, then pay the shop back to unlock the next one.",
+     "steps_ar": "الأقنعة من محل الأقنعة (محل الأقنعة) في السوق، بعد ما توري حارس بوابة كاكاريكو رسالة زيلدا. استعير قناع، بيعه للزبون المناسب، ورجّع فلوسه للمحل عشان ينفتح القناع اللي بعده.",
+     "name_ar": "قناع الجيرودو"
+    }
+   ]
+  },
+  {
+   "id": "songs",
+   "ar": "الأغاني",
+   "en": "Songs",
+   "items": [
+    {
+     "id": "songs.0",
+     "name": "Zelda's Lullaby",
+     "era": "Either",
+     "place": "HyruleCastle",
+     "src": [
+      {
+       "t": "h",
+       "v": "01c20002"
+      }
+     ],
+     "steps": "You learn it at Hyrule Castle. It solves puzzles marked with a Triforce symbol on the ground, and it is also what calls the Great Fairies.",
+     "steps_ar": "تتعلمها في قلعة هايرول. تحل الألغاز اللي عليها رمز التريفورس في الأرض، وهي اللي تنادي الجنيات العظيمة.",
+     "name_ar": "تهويدة زيلدا"
+    },
+    {
+     "id": "songs.1",
+     "name": "Epona's Song",
+     "era": "Either",
+     "place": "LonLonRanch",
+     "src": [
+      {
+       "t": "h",
+       "v": "b492ac33"
+      }
+     ],
+     "steps": "Learn it at Lon Lon Ranch. Playing it calls Epona to you, and it also solves a few puzzles.",
+     "steps_ar": "تتعلمها في مزرعة لون لون. تنادي إيبونا، وتحل كم لغز.",
+     "name_ar": "أغنية إيبونا"
+    },
+    {
+     "id": "songs.2",
+     "name": "Saria's Song",
+     "era": "Either",
+     "place": "SacredForestMeadow",
+     "src": [
+      {
+       "t": "h",
+       "v": "d3f8bfcc"
+      }
+     ],
+     "steps": "Learn it in the Sacred Grove once you have met Zelda. It solves puzzles tied to Saria and the Kokiri.",
+     "steps_ar": "تتعلمها في المرج المقدس بعد ما تقابل زيلدا. تحل الألغاز المرتبطة بساريا والكوكيري.",
+     "name_ar": "أغنية ساريا"
+    },
+    {
+     "id": "songs.3",
+     "name": "Song of Time",
+     "era": "Either",
+     "place": "HyruleField",
+     "src": [
+      {
+       "t": "h",
+       "v": "03b3450e"
+      }
+     ],
+     "steps": "Once you hold all three Spiritual Stones, learn it in Hyrule Field near Castle Town. It opens the Temple of Time and works on puzzles marked with the Temple of Time symbol.",
+     "needs": [
+      {
+       "any": [
+        "quest.0"
+       ]
+      },
+      {
+       "any": [
+        "quest.1"
+       ]
+      },
+      {
+       "any": [
+        "quest.2"
+       ]
+      }
+     ],
+     "steps_ar": "إذا صار معك الثلاث أحجار الروحية، تتعلمها في سهل هايرول قرب السوق. تفتح معبد الزمن وتحل الألغاز اللي عليها رمزه.",
+     "name_ar": "أغنية الزمن"
+    },
+    {
+     "id": "songs.4",
+     "name": "Sun's Song",
+     "era": "Either",
+     "place": "Graveyard",
+     "src": [
+      {
+       "t": "h",
+       "v": "165dd1ad"
+      }
+     ],
+     "steps": "Learn it in the royal tomb of the Kakariko Graveyard. It switches between day and night, and it stuns Redeads for a short time.",
+     "steps_ar": "تتعلمها في القبر الملكي بمقبرة كاكاريكو. تقلب بين الليل والنهار، وتجمّد الريديد شوي.",
+     "name_ar": "أغنية الشمس"
+    },
+    {
+     "id": "songs.5",
+     "name": "Song of Storms",
+     "era": "Adult",
+     "place": "KakarikoVillage",
+     "src": [
+      {
+       "t": "h",
+       "v": "2b39dd4f"
+      }
+     ],
+     "steps": "Learn it at the windmill in Kakariko Village. It calls up a thunderstorm and solves a number of puzzles.",
+     "steps_ar": "تتعلمها عند الطاحونة في قرية كاكاريكو. تجيب عاصفة وتحل ألغاز كثيرة.",
+     "name_ar": "أغنية العواصف"
+    },
+    {
+     "id": "songs.6",
+     "name": "Minuet of Forest",
+     "era": "Adult",
+     "place": "SacredForestMeadow",
+     "src": [
+      {
+       "t": "h",
+       "v": "dc0a0b54"
+      }
+     ],
+     "steps": "Learn it in the Sacred Grove. It warps you back to the Sacred Grove.",
+     "steps_ar": "تتعلمها في المرج المقدس. تنقلك للمرج المقدس.",
+     "name_ar": "مينويت الغابة"
+    },
+    {
+     "id": "songs.7",
+     "name": "Bolero of Fire",
+     "era": "Adult",
+     "place": "DeathMountainCrater",
+     "src": [
+      {
+       "t": "h",
+       "v": "49041ab9"
+      }
+     ],
+     "steps": "Learn it in Death Mountain Crater. It warps you to the Crater.",
+     "steps_ar": "تتعلمها في فوهة جبل الموت. تنقلك للفوهة.",
+     "name_ar": "بوليرو النار"
+    },
+    {
+     "id": "songs.8",
+     "name": "Serenade of Water",
+     "era": "Adult",
+     "place": "IceCavern",
+     "src": [
+      {
+       "t": "h",
+       "v": "3fa63986"
+      }
+     ],
+     "steps": "Learn it at the end of the Ice Cavern. It warps you to Lake Hylia.",
+     "steps_ar": "تتعلمها في آخر كهف الجليد. تنقلك لبحيرة هايليا.",
+     "name_ar": "سيرينادة الماء"
+    },
+    {
+     "id": "songs.9",
+     "name": "Requiem of Spirit",
+     "era": "Adult",
+     "place": "DesertColossus",
+     "src": [
+      {
+       "t": "h",
+       "v": "802a36a8"
+      }
+     ],
+     "steps": "Learn it in the Desert Colossus. It warps you back to the Colossus.",
+     "steps_ar": "تتعلمها في تمثال الصحراء. تنقلك للتمثال.",
+     "name_ar": "ريكويم الروح"
+    },
+    {
+     "id": "songs.10",
+     "name": "Nocturne of Shadow",
+     "era": "Adult",
+     "place": "KakarikoVillage",
+     "src": [
+      {
+       "t": "h",
+       "v": "c2fb95f4"
+      }
+     ],
+     "steps": "Learn it in Kakariko Village after finishing the Water Temple. It warps you to the Graveyard.",
+     "needs": [
+      {
+       "any": [
+        "quest.6"
+       ]
+      }
+     ],
+     "steps_ar": "تتعلمها في قرية كاكاريكو بعد ما تخلّص معبد الماء. تنقلك للمقبرة.",
+     "name_ar": "نوكتيرن الظل"
+    },
+    {
+     "id": "songs.11",
+     "name": "Prelude of Light",
+     "era": "Adult",
+     "place": "Market",
+     "src": [
+      {
+       "t": "h",
+       "v": "d6320ba4"
+      }
+     ],
+     "steps": "Learn it in the Temple of Time after clearing the Forest Temple. It warps you to the Temple of Time.",
+     "needs": [
+      {
+       "any": [
+        "quest.4"
+       ]
+      }
+     ],
+     "steps_ar": "تتعلمها في معبد الزمن بعد ما تخلّص معبد الغابة. تنقلك لمعبد الزمن.",
+     "name_ar": "بريلود النور"
+    },
+    {
+     "id": "songs.12",
+     "name": "Scarecrow's Song",
+     "era": "Adult",
+     "place": "LakeHylia",
+     "src": [
+      {
+       "t": "h",
+       "v": "5e86fb4d"
+      }
+     ],
+     "steps": "As a child, make up a short tune with the Scarecrow at Lake Hylia. As an adult, play it again to call the Scarecrow onto the whirling straw piles.",
+     "needs": [
+      {
+       "any": [
+        "items.0",
+        "items.1"
+       ]
+      }
+     ],
+     "steps_ar": "وأنت صغير ألّف نغمة قصيرة مع الفزاعة في بحيرة هايليا. وأنت كبير شغّلها مرة ثانية عشان تنادي الفزاعة (بيير) فوق أكوام القش اللي تلف.",
+     "name_ar": "أغنية الفزاعة"
+    }
+   ]
+  },
+  {
+   "id": "quest",
+   "ar": "الأحجار والميداليات",
+   "en": "Stones & medallions",
+   "items": [
+    {
+     "id": "quest.0",
+     "name": "Kokiri's Emerald",
+     "era": "Child",
+     "src": [
+      {
+       "t": "h",
+       "v": "110b83ec"
+      },
+      {
+       "t": "h",
+       "v": "cbd1e58c"
+      }
+     ],
+     "steps": "Awarded automatically when you finish the Great Deku Tree.",
+     "steps_ar": "تاخذه تلقائي لما تخلّص شجرة ديكو العظيمة.",
+     "name_ar": "زمرد كوكيري"
+    },
+    {
+     "id": "quest.1",
+     "name": "Goron's Ruby",
+     "era": "Child",
+     "src": [
+      {
+       "t": "h",
+       "v": "8908d6ad"
+      },
+      {
+       "t": "h",
+       "v": "7d69ad47"
+      }
+     ],
+     "steps": "Awarded automatically when you finish Dodongo's Cavern.",
+     "steps_ar": "تاخذه تلقائي لما تخلّص كهف دودونغو.",
+     "name_ar": "ياقوت الغورون"
+    },
+    {
+     "id": "quest.2",
+     "name": "Zora's Sapphire",
+     "era": "Child",
+     "src": [
+      {
+       "t": "h",
+       "v": "eec383f5"
+      },
+      {
+       "t": "h",
+       "v": "b8e3bf45"
+      }
+     ],
+     "steps": "Awarded automatically when you finish Lord Jabu-Jabu's Belly.",
+     "steps_ar": "تاخذه تلقائي لما تخلّص بطن جابو جابو.",
+     "name_ar": "ياقوت الزورا الأزرق"
+    },
+    {
+     "id": "quest.3",
+     "name": "Light Medallion",
+     "era": "Either",
+     "src": [
+      {
+       "t": "h",
+       "v": "9026c187"
+      },
+      {
+       "t": "h",
+       "v": "235c7d9a"
+      }
+     ],
+     "steps": "Awarded automatically when you pull the Master Sword.",
+     "steps_ar": "تاخذها تلقائي لما تسحب السيف الأسطوري.",
+     "name_ar": "ميدالية النور"
+    },
+    {
+     "id": "quest.4",
+     "name": "Forest Medallion",
+     "era": "Adult",
+     "src": [
+      {
+       "t": "h",
+       "v": "fcd8d653"
+      },
+      {
+       "t": "h",
+       "v": "692d57cb"
+      }
+     ],
+     "steps": "Awarded automatically when you finish the Forest Temple.",
+     "steps_ar": "تاخذها تلقائي لما تخلّص معبد الغابة.",
+     "name_ar": "ميدالية الغابة"
+    },
+    {
+     "id": "quest.5",
+     "name": "Fire Medallion",
+     "era": "Adult",
+     "src": [
+      {
+       "t": "h",
+       "v": "103a0dc7"
+      },
+      {
+       "t": "h",
+       "v": "5ce254a6"
+      }
+     ],
+     "steps": "Awarded automatically when you finish the Fire Temple.",
+     "steps_ar": "تاخذها تلقائي لما تخلّص معبد النار.",
+     "name_ar": "ميدالية النار"
+    },
+    {
+     "id": "quest.6",
+     "name": "Water Medallion",
+     "era": "Adult",
+     "src": [
+      {
+       "t": "h",
+       "v": "cf64e780"
+      },
+      {
+       "t": "h",
+       "v": "0151a68f"
+      }
+     ],
+     "steps": "Awarded automatically when you finish the Water Temple.",
+     "steps_ar": "تاخذها تلقائي لما تخلّص معبد الماء.",
+     "name_ar": "ميدالية الماء"
+    },
+    {
+     "id": "quest.7",
+     "name": "Shadow Medallion",
+     "era": "Adult",
+     "src": [
+      {
+       "t": "h",
+       "v": "12d63ac6"
+      },
+      {
+       "t": "h",
+       "v": "204d2063"
+      }
+     ],
+     "steps": "Awarded automatically when you finish the Shadow Temple.",
+     "steps_ar": "تاخذها تلقائي لما تخلّص معبد الظل.",
+     "name_ar": "ميدالية الظل"
+    },
+    {
+     "id": "quest.8",
+     "name": "Spirit Medallion",
+     "era": "Adult",
+     "src": [
+      {
+       "t": "h",
+       "v": "e269df38"
+      },
+      {
+       "t": "h",
+       "v": "0c7a5fd0"
+      }
+     ],
+     "steps": "Awarded automatically when you finish the Spirit Temple.",
+     "steps_ar": "تاخذها تلقائي لما تخلّص معبد الروح.",
+     "name_ar": "ميدالية الروح"
+    }
+   ]
+  }
+ ],
+ "known": {
+  "life": "31ab5580",
+  "maxLife": "fbe01da1",
+  "rupees": "a77921d7",
+  "gsCount": "04735978",
+  "heldPieces": "51ec97b3",
+  "key64List": "a3db7114"
+ }
+}

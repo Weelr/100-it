@@ -1,0 +1,3 @@
+*.exe
+/dist/
+__pycache__/
